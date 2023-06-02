@@ -1,0 +1,21 @@
+---
+layout: single 
+---
+{%assign headers = "date,url,username,content,link0,link1,link2,link3,link4,url0,url1,url2,url3,url4" | split: "," %}
+{% assign content = site.data.2023-06-02 | sort: 'date' | reverse %} 
+{%for row in content %}
+  <h5><a href="{{row.url}}" target=”_blank”>{{row.content | truncate: 60}}</a> {{row.date  | date: "%Y-%m-%d"  }} {{row.username}}</h5>
+  <blockquote>{{row.content}}</blockquote>
+  {% if row.link0 != Nil %}<p><a href="{{row.link0}}" target=”_blank”>{{row.link0}}</a>    
+  {% if row.link1 != Nil %}<br><a href="{{row.link1}}" target=”_blank”>{{row.link1}}</a>{%endif%}
+  {% if row.link2 != Nil %}<br><a href="{{row.link2}}" target=”_blank”>{{row.link2}}</a>{%endif%}
+  {% if row.link3 != Nil %}<br><a href="{{row.link3}}" target=”_blank”>{{row.link3}}</a>{%endif%}
+  {% if row.link4 != Nil %}<br><a href="{{row.link4}}" target=”_blank”>{{row.link4}}</a>{%endif%}</p>{% endif %}
+  {% if row.url0 != Nil %} 
+    <img src="{{row.url0}}" width="50%"/>
+    {% if row.url1 != Nil %}<img src="{{row.url1}}" width="50%"/>{%endif%}
+    {% if row.url2 != Nil %}<img src="{{row.url2}}" width="50%"/>{%endif%}
+    {% if row.url3 != Nil %}<img src="{{row.url3}}" width="50%"/>{%endif%}
+    {% if row.url4 != Nil %}<img src="{{row.url4}}" width="50%"/>{%endif%}
+  {% endif %}
+{%endfor%}
