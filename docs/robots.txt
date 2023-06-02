@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/tweed/sitemap.xml
+Sitemap: https://infominer33.github.io/tweed/sitemap.xml
