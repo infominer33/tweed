@@ -2,7 +2,7 @@
 layout: single 
 ---
 {%assign headers = "date,url,username,content,link0,link1,link2,link3,link4,url0,url1,url2,url3,url4" | split: "," %}
-{% assign content = site.data.2023-06-02 | sort: 'date' | reverse %} 
+{% assign content = site.data.now | sort: 'date' | reverse %} 
 {%for row in content %}
   <h5><a href="{{row.url}}" target=”_blank”>{{row.content | truncate: 60}}</a> {{row.date  | date: "%Y-%m-%d"  }} {{row.username}}</h5>
   <blockquote>{{row.content}}</blockquote>
