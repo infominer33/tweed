@@ -1,138 +1,84 @@
 date,url,username,content,link0,link1,link2,link3,link4,url0,url1,url2,url3,url4
+2023-06-30T15:23:57+00:00,https://twitter.com/Hyperledger/status/1674800951650025473,Hyperledger,"Join us July 11 for @Hyperledger Aries Framework Javascript 0.4.0 Release, Setting Up an Agent and Issuing Credentials. For details and registration:
+
+https://t.co/ow0ihMLurV
+#blockchain #DLT #HyperledgerAries #decentralizedidentity or #javascript https://t.co/uiPbFGWjH8",https://hubs.la/Q01WnNQP0,,,,,https://pbs.twimg.com/media/Fz4Wlv2aMAUx1YU?format=jpg&name=orig,,,,
+2023-06-29T01:33:27+00:00,https://twitter.com/t_kanuma/status/1674229561004015616,t_kanuma,"新しい記事を書きました。
+
+【Hyperledger Aries】ACA-PyでW3C準拠のJSON-LD Credentialsの発行と検証を試す
+
+https://t.co/fY1ioljlqm",https://tech.gmogshd.com/try-json-ld-vc,,,,,,,,,
+2023-06-29T00:18:40+00:00,https://twitter.com/TweetFromHilary/status/1674210740369076231,TweetFromHilary,"Oh 🇨🇦! The province of BC &amp; @TELUS take the Energy &amp; Mines Digital Trust (EMDT) into production! EMDT solutions use @Hyperledger #Indy &amp; #Aries - taking #sustainability reporting &amp; digital credential applications to the next level! 🐧🌎💡
+https://t.co/4UnbQ3rylD https://t.co/ZcFFcll4Ra",https://www.hyperledger.org/blog/2023/06/20/energy-mines-digital-trust-interoperable-technology-for-sustainable-resilient-supply-chains-heads-to-production,,,,,https://pbs.twimg.com/media/Fzv9kmcWcAEl8AI?format=jpg&name=orig,,,,
+2023-06-27T04:14:25+00:00,https://twitter.com/OracleDev_JP/status/1673545292329938944,OracleDev_JP,"【#blockchaingig 情報】
+7月12日はBlockchain GIG開催🙌
+今回は「SSI/DID/VC」がテーマ！もちろん、ゲストをお迎えしてお届けします！
+@gakumura からは概念や仕組みの基本をお伝えし、@t_kanuma 氏からは、Hyperledger Ariesを用いたシステム像など実践的な内容をご紹介💁‍♀️
+
+https://t.co/hUnYCfQPSu",https://oracle-code-tokyo-dev.connpass.com/event/285743/,,,,,,,,,
+2023-06-26T14:00:01+00:00,https://twitter.com/Hyperledger/status/1673330277421051904,Hyperledger,"On Mon, July 10 @ 8AM Pacific join us for an online meetup where @eddie_satterly will go over the design, architecture and live demo of the OnePlatform Loyalty and Marketplace solution which leverages Hyperledger Fabric, Firefly, Indy &amp; Aries
+
+https://t.co/Ln7I3wa3q2 https://t.co/8uPPkgqoFP",https://hubs.la/Q01VFhgN0,,,,,https://pbs.twimg.com/media/FzjdBNVWYAEbfON?format=jpg&name=orig,,,,
 2023-06-23T19:09:00+00:00,https://twitter.com/Hyperledger/status/1672320872089104384,Hyperledger,"Join us July 11 for @Hyperledger Aries Framework Javascript 0.4.0 Release, Setting Up an Agent and Issuing Credentials. For details and registration:
 
 https://t.co/aw21cSQmTi
 #blockchain #DLT #HyperledgerAries #decentralizedidentity or #javascript https://t.co/RmnrF0ACMd",https://hubs.la/Q01VbzzW0,,,,,https://pbs.twimg.com/media/FzVG-LBXwAAel6H?format=jpg&name=orig,,,,
-2023-06-20T06:13:13+00:00,https://twitter.com/chekichekimusu1/status/1671038474710040576,chekichekimusu1,"うーん、Hyperledger Indy Ariesの解説記事。
-https://t.co/yUjLOW7T6D",https://medium.com/@TIS_BC_Prom/hyperledger-indy-aries%E3%81%AB%E3%82%88%E3%82%8B%E5%88%86%E6%95%A3%E5%9E%8Bid%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA%E3%82%AC%E3%82%A4%E3%83%89-1-%E6%A6%82%E8%A6%81%E7%B7%A8-3547861b00b6,,,,,,,,,
-2023-06-21T09:40:05+00:00,https://twitter.com/PegasoFree/status/1671452924256436224,PegasoFree,"LTO Network 2023 Roadmap, #Ownables Section: 
-🌱 DIDComm
-🌱 #NFT Bridge
-🌱 Wallet Integration 
-🌱 Code Templates 
-🌱 Client Projects 
-🌱 Embedded Applications &amp; more 
+2023-06-30T15:58:58+00:00,https://twitter.com/helen_garneau/status/1674809763522310149,helen_garneau,The easiest way to connect with and communicate directly with customers is through #DIDcomm and verifiable credentials.,,,,,,,,,,
+2023-06-30T06:38:51+00:00,https://twitter.com/j81_junu/status/1674668805052588032,j81_junu,LETs go Linea! Nice opportunity! 🪂 @didcomm @yechen888 @carolmose78 @PollJonaon58381,,,,,,,,,,
+2023-06-29T16:20:25+00:00,https://twitter.com/Butterworthy/status/1674452772815511558,Butterworthy,"@ajordannafa Decentralized identity - decentralized identifiers (DIDs) + DIDComm + schema + verifiable credentials = a privacy-preserving verification layer for people, entities, devices, and things, and the data that can be associated with them. It’s an immensely powerful technology.",,,,,,,,,,
+2023-06-28T18:17:08+00:00,https://twitter.com/IndicioID/status/1674119758168616961,IndicioID,"The latest Indicio Newsletter takes a look at how you can quickly bring your team up to speed on all things #verifiablecredentials with the new Indicio Academy and a technical deep dive into #DIDComm among other topics.
 
-Read More: https://t.co/HF63i4KjEM
+Read the article here: https://t.co/kUQdvLwvUR",https://www.linkedin.com/pulse/identity-cloud-indiciotech,,,,,,,,,
+2023-06-28T13:07:01+00:00,https://twitter.com/lissi_id/status/1674041713873108994,lissi_id,"While verifiable #credentials enable the exchange of information, it is the power of #relationships within digital #wallets that empowers individuals to navigate the digital realm with confidence and purpose. 
 
-$LTO #AI #CryptoCurrencyNews",http://bit.ly/3vBD6UI,,,,,,,,,
-2023-06-21T00:46:57+00:00,https://twitter.com/BraunClara1/status/1671318754041516032,BraunClara1,"LTO Network 2023 Roadmap, #Ownables Section: 
-🌱 DIDComm
-🌱 #NFT Bridge
-🌱 Wallet Integration 
-🌱 Code Templates 
-🌱 Client Projects 
-🌱 Embedded Applications &amp; more 
+#eIDAs #EUDWallet #OpenID4VC #DIDcomm",,,,,,,,,,
+2023-06-27T17:58:44+00:00,https://twitter.com/IndicioID/status/1673752738298208256,IndicioID,"Interested in #DIDComm?
 
-Read More: https://t.co/suBdtwDMEG
-
-$LTO #AI #CryptoCurrencyNews",http://bit.ly/3vBD6UI,,,,,,,,,
-2023-06-20T21:56:42+00:00,https://twitter.com/Feliciano_ONE/status/1671275910379585537,Feliciano_ONE,"LTO Network 2023 Roadmap, #Ownables Section: 
-🌱 DIDComm
-🌱 #NFT Bridge
-🌱 Wallet Integration 
-🌱 Code Templates 
-🌱 Client Projects 
-🌱 Embedded Applications &amp; more 
-
-Read More: https://t.co/Q4pv8hRgAn
-
-$LTO #AI #CryptoCurrencyNews",http://bit.ly/3vBD6UI,,,,,,,,,
-2023-06-20T18:44:44+00:00,https://twitter.com/IndicioID/status/1671227598746292225,IndicioID,"Dive into the technical side of DIDComm with Indicio Deputy CTO @TelegramSam on the latest episode of Identity Insights!
-
-Come learn about the intricacies of meta-protocols and DID docs, among other subjects here👇
+Get an overview of the technology behind it in a quick 20 minute video here:
 https://t.co/kqQwTTnk1M",https://www.youtube.com/watch?v=rMpzkEaQsEg,,,,,,,,,
+2023-06-30T12:22:15+00:00,https://twitter.com/walt_id/status/1674755223363936256,walt_id,"W3C Verifiable Credential Verification With Policies
+
+For our Feature Friday 6, we dive into verification policies, which are customizable, adaptable rulesets that simplify the process of verifying credentials in both common and complex use cases.
+
+🔗 https://t.co/Eq6pUFhqGP https://t.co/1Gze8tx3fC",https://youtu.be/yTQl7_HYWJo,,,,,https://pbs.twimg.com/media/Fz3s74nWcAEuWhX?format=jpg&name=orig,,,,
+2023-06-29T01:33:27+00:00,https://twitter.com/t_kanuma/status/1674229561004015616,t_kanuma,"新しい記事を書きました。
+
+【Hyperledger Aries】ACA-PyでW3C準拠のJSON-LD Credentialsの発行と検証を試す
+
+https://t.co/fY1ioljlqm",https://tech.gmogshd.com/try-json-ld-vc,,,,,,,,,
+2023-06-28T01:05:48+00:00,https://twitter.com/OR13b/status/1673860216104837121,OR13b,W3C Verifiable Credentials using JSON-LD and RDF https://t.co/PJIJ8aUzX3,,,,,,https://pbs.twimg.com/media/Fzq-_u1XsAIQF1k?format=jpg&name=orig,,,,
+2023-06-27T23:45:48+00:00,https://twitter.com/SpruceID/status/1673840082263093248,SpruceID,"Our personal data should be portable as we adventure around the internet, just like in the physical world. 
+
+How do we get there?
+
+Standards are the first step, such as @signinwitheth, ISO mDLs/mdocs, or W3C Verifiable Credentials.
+
+For our data to be useful across different industries and across borders, everyone needs to agree on standardized data formats to support interoperability.
+
+Convergence on global standards accelerates innovation for real-world applications and various industry use cases.",,,,,,,,,,
+2023-06-26T10:36:24+00:00,https://twitter.com/MrFreshTime/status/1673279036385026049,MrFreshTime,"4/🏦 INSTITUTIONAL DEFI 🏦HAPPENS ON PUBLIC BLOCKCHAINS but adds a regulatory 📜 compliance/service layer on top. Utilizing W3C standards, institutions &amp; customers will access DeFi protocols, Dapps, and AMM Liquidity Pools with verified digital identities and credentials 🔐 🌊 https://t.co/n6WtYevFZ7",,,,,,,,,,
 2023-06-23T20:19:14+00:00,https://twitter.com/curiousgurnoor/status/1672338545485434880,curiousgurnoor,"2⃣ w3c verifiable credentials (powered by @auth0)
 
 → a verifiable credential of w3c standard are digital and cryptographically verifiable credentials which can be stored on digital devices and can utilize cryptography to verify their data and authorship",,,,,,,,,,
-2023-06-21T19:12:55+00:00,https://twitter.com/0xSerious/status/1671597079851040768,0xSerious,"Recent years have seen strides in the challenging realm of user control, thanks to breakthroughs in decentralized identity, championed by the W3C initiative on Verifiable Credentials and Decentralized Identifiers.",,,,,,,,,,
-2023-06-18T14:20:05+00:00,https://twitter.com/itstechgraph/status/1670436223171850241,itstechgraph,"""Verifiable Credentials which are anchored on the CORD blockchain are developed around a specification from the World Wide Web Consortium (W3C),"" says @Dhiwaynetworks Founder Satish Mohan 
-
-#blockchain #tech #cybersecurity  #authentication #security #news
-https://t.co/kq4hSMhVWL",https://techgraph.co/interviews/dhiway-satish-mohan-mark-studio-uses-blockchain-transform-credentialing/,,,,,,,,,
-2023-06-17T13:16:38+00:00,https://twitter.com/afi_maame/status/1670057867133566978,afi_maame,"Keynote Speech by @techgirl1908 on Refactoring the Web: 
-Web 5 (Decentralization of the web) based on three pillars:
-
-• Decentralized Identifiers (DIDs:W3C standard) 
-• Verifiable Credentials 
-• Decentralized Web Nodes
-
-#oscafest23 
-#web5
-#W3C
-#Decentralization 
-@oscafest https://t.co/FwGFHb2R1R",,,,,,https://pbs.twimg.com/media/Fy08VQeWcAYVD_W?format=jpg&name=orig,,,,
+2023-06-30T14:35:38+00:00,https://twitter.com/mustard_mstdn/status/1674788791964536835,mustard_mstdn,"볼 수 있습니다. 액펍 덕분이죠.
+트위터 대체재라고 하는 블루스카이 역시 액펍과 비슷하게 ATProtocol이라는 걸 사용해서 다양한 서버와 연결되게끔 하고 있는데, 아직은 블루스카이 뿐이죠.",,,,,,,,,,
 2023-06-23T05:45:27+00:00,https://twitter.com/json_dirs/status/1672118651586244611,json_dirs,"contrast that to ATprotocol, whose solution is sort of bog standard cloud ideology - moderation and safety is a service that you can rent in a marketplace of algorithms. empowerment means buying the experience you want and not worrying about other people
 https://t.co/mP7ybToibc",https://blueskyweb.xyz/blog/4-13-2023-moderation,,,,,,,,,
-2023-06-22T07:50:59+00:00,https://twitter.com/_ChaoticHuman/status/1671787856157716480,_ChaoticHuman,If Twitter really collapses I will miss community notes the most because unfortunately neither Mastodon nor Bluesky has currently a similar feature though I guess it might be possible to implement something similar with Bluesky's/ATProtocol's planned user-driven moderation-tools.,,,,,,,,,,
-2023-06-21T16:31:28+00:00,https://twitter.com/ArNazeh/status/1671556450273878017,ArNazeh,"@gordonbrander Only things that maybe doable and achievable are:
-- Censorship resistant permissionless DNS-ish #pkarr
-- Censorship resistant permissionless S3-ish (maybe something similar or simpler than AtProtocol PDS)
+2023-06-30T16:08:59+00:00,https://twitter.com/jameskschulte/status/1674812285163028485,jameskschulte,"Very excited to announce the launch of Proven™ Sandbox in Google Cloud Marketplace, making it even easier for enterprises to incorporate #verifiablecredentials and #decentralizedidentity",,,,,,,,,,
+2023-06-30T08:51:30+00:00,https://twitter.com/Steve_Lockstep/status/1674702185492533248,Steve_Lockstep,New Lockstep blog about our recent #Identiverse presentation. https://t.co/iylykW45ql #verifiablecredentials #wallets #DVP,https://lockstep.com.au/handout-the-history-and-future-of-digital-wallets/,,,,,,,,,
+2023-06-30T06:10:26+00:00,https://twitter.com/casparroelofs/status/1674661653512613888,casparroelofs,"Great to see our work on selecting verifiable credential formats at @RWOTWorkshop now taken to @OpenWalletFdn. 
 
-Interoperablity that requires consent and work are doomed.",,,,,,,,,,
-2023-06-20T15:23:10+00:00,https://twitter.com/Jackoganja/status/1671176873093611522,Jackoganja,@jack what are your thoughts on ActivityPub vs the ATProtocol? I don't understand why there are two different ones and why their differences matter :/,,,,,,,,,,
-2023-06-17T15:15:14+00:00,https://twitter.com/SiON_PN/status/1670087716216926208,SiON_PN,"書きました
+Congrats @mirkomollik, @KudrixD, Maaike van Leuken, @tlodderstedt, Paul Bastian!
 
-AtProtocolを使ってBlueskyにPythonからPostする｜SiON https://t.co/JsyHXBgYjS #zenn",https://zenn.dev/sion_pn/articles/afe598bdbfebf9,,,,,,,,,
-2023-06-24T02:19:05+00:00,https://twitter.com/DanielleFong/status/1672429106993201152,DanielleFong,"califlorence unconference!
-just knocking back some brewskis! w ⁦@arram⁩ ⁦@kanjun⁩ &amp; friends https://t.co/58u3QyWftK",,,,,,https://pbs.twimg.com/media/FzWpZk7aYAIE6gi?format=jpg&name=orig,,,,
-2023-06-23T23:53:48+00:00,https://twitter.com/NormanChella/status/1672392542946721792,NormanChella,"@nvpkp I could probably emulate something similar by creating an event where we declare our schedules unconference style in a mansion for 30 days and then add a deadline for presenting it - so writers and other builders can be included
+#idtech #ssi #verifiablecredentials 
 
-It’ll probs work here",,,,,,,,,,
-2023-06-23T20:53:05+00:00,https://twitter.com/jonathonfeit/status/1672347064389480448,jonathonfeit,SNEAK PEEK: I'm thrilled to tell you that the 2nd Annual Mobile Medical Innovation Roundtable (Unconference) is scheduled and location set.  SAVE THE DATE: December 3-5 near San Antonio.  Details next week! #IYKYK 🚒🚑⚕️ https://t.co/lOIvvW1NDE,,,,,,https://pbs.twimg.com/media/FzVeyn0aQAAb8CR?format=jpg&name=orig,,,,
-2023-06-23T20:05:48+00:00,https://twitter.com/one33seven_/status/1672335165010452480,one33seven_,"Putting together a (transparency) thread on the 1337 genesis story and the concept of the Crypto Culture unConference ✍️
+https://t.co/xz6hlGeBbz",https://www.linkedin.com/posts/caspar-roelofs_happy-to-announce-the-kickoff-event-for-a-activity-7080411831239892992-uGoO?utm_source=share&utm_medium=member_ios,,,,,,,,,
+2023-06-29T20:54:42+00:00,https://twitter.com/PerrineCoet/status/1674521797167927297,PerrineCoet,"#microcredentials #OpenBadges #VerifiableCredentials : reconnaître aux étudiants toutes les activités d'apprentissage des langues étrangères, et les motiver aussi, y compris de façon automatisée. Avec leur #CLES et leur diplôme aussi dans leur Wallet @EU_EBSI : ça arrive #DIAL4U https://t.co/oSR6zfOJtR",,,,,,https://pbs.twimg.com/media/Fz0Yr0ZXgAEclTy?format=jpg&name=orig,,,,
+2023-06-28T18:17:08+00:00,https://twitter.com/IndicioID/status/1674119758168616961,IndicioID,"The latest Indicio Newsletter takes a look at how you can quickly bring your team up to speed on all things #verifiablecredentials with the new Indicio Academy and a technical deep dive into #DIDComm among other topics.
 
-Pretty sure it's interesting, possibly, it'll even be notable.",,,,,,,,,,
-2023-06-23T19:00:04+00:00,https://twitter.com/cantus94/status/1672318622788886528,cantus94,The in-person event will include a full day of (livestreamed) programming plus a half-day unconference. 2/4,,,,,,,,,,
-2023-06-23T18:56:21+00:00,https://twitter.com/aeonnz/status/1672317686271844367,aeonnz,"Flying (rather delayed) to Belfast tonight! Looking forward to exploring a new city, meeting Northern Irish devs, and taking part in Games Changers Belfast, a brand new unconference bringing the NI game dev scene together ❤️",,,,,,,,,,
-2023-06-23T16:36:12+00:00,https://twitter.com/MaryBeth_Neff/status/1672282416872923137,MaryBeth_Neff,"Sending a collective thanks /🙌to the @improvingpsych community for the fun and insightful piloting Unconference! 
-
-@AgataBochynska can confirm that I was so chuffed that, in a post-session daze, I managed to leave half of my (now recovered!) belongings at the venue🙃
-#SIPS2023",,,,,,,,,,
-2023-06-23T15:25:44+00:00,https://twitter.com/cdps_cymru/status/1672264682143379458,cdps_cymru,"Am ddiwrnod!
-
-And that’s a wrap! Diolch yn fawr @GovCampCymru for a brilliant unconference.
-
-Our team have left brimming with ideas and inspiration from meeting public service colleagues from across Wales! https://t.co/X98fO9YBCg",,,,,,https://pbs.twimg.com/media/FzUT3MFXgAAAlXF?format=jpg&name=orig,,,,
-2023-06-23T14:42:01+00:00,https://twitter.com/Antarctic_Bio/status/1672253683537690625,Antarctic_Bio,"Day 3 of the @eco4cast @NEON_sci 2023 unconference, synthesizing ideas to move ecological forecasting forward, @mcdietze providing some motivation for the day! https://t.co/tSbqgTlkto",,,,,,https://pbs.twimg.com/media/FzUJ3OGacAEo29O?format=jpg&name=orig,,,,
-2023-06-23T13:58:42+00:00,https://twitter.com/SusanFi84657717/status/1672242779370430470,SusanFi84657717,I just registered for the 12th Science is Cool Unconference powered by @ThePocketLab! #ScIC12 is summer PD you can do from anywhere &amp; it's happening August 3. #seeyouinthechat https://t.co/BaZzczWjLp,http://www.thepocketlab.com/scic12,,,,,,,,,
-2023-06-23T13:06:25+00:00,https://twitter.com/Gemma_Lelliott/status/1672229625462751233,Gemma_Lelliott,"Checking out the sessions on offer for this afternoon... @brigidrussell51 an example unconference agenda, pitched by delegates this morning!
-
-#GCCy23 https://t.co/gVTr6xrJf6",,,,,,https://pbs.twimg.com/media/FzTz-hLXoAQu9B-?format=jpg&name=orig,,,,
-2023-06-23T13:01:24+00:00,https://twitter.com/AllegroDVT/status/1672228362289393664,AllegroDVT,"Thank you for visiting us at DVB World 2023 #unconference by @DVB_Project and discovering our D301 demo, the first LCEVC Decoder IP solution. ⚡️
-
-
-See you soon for new events! 🔔🗓️
-
-#DVBWorld #AllegroDVT #LCEVC #D301 #DVB #Unconference #SoC #Semiconductors https://t.co/Dk83LW5kvf",,,,,,https://pbs.twimg.com/media/FzTy1ZWWwAA2pdb?format=jpg&name=orig,https://pbs.twimg.com/media/FzTy1ZPWIAM8DUS?format=jpg&name=orig,,,
-2023-06-23T12:44:06+00:00,https://twitter.com/ThereseWalsh/status/1672224006106218498,ThereseWalsh,"Today is the FINAL DAY to apply for this year's Writer Unboxed UnConference event scholarship. We have a healthy number of applications now, but are we missing yours? More info and how to apply, at Writer Unboxed:
-
-https://t.co/NH4oKRXD89",https://writerunboxed.com/2023/06/09/announcing-the-2023-writer-unboxed-unconference-scholarship-how-to-apply/,,,,,,,,,
-2023-06-23T12:42:49+00:00,https://twitter.com/WriterUnboxed/status/1672223684562497543,WriterUnboxed,"Today is the FINAL DAY to apply for this year's Writer Unboxed UnConference event scholarship. We have a healthy number of applications now, but are we missing yours? More info and how to apply, at Writer Unboxed:
-
-https://t.co/AbBqCl28Ls",https://writerunboxed.com/2023/06/09/announcing-the-2023-writer-unboxed-unconference-scholarship-how-to-apply/,,,,,,,,,
-2023-06-23T12:00:03+00:00,https://twitter.com/uanataca/status/1672212921307344898,uanataca,"🙋‍♀️Nuestra Directora Regional, Cristina Jareño, participará en la #FinTech Unconference Madrid 2023 de @FinnovatingHub el 28 de junio.
-
-➡️Un evento único en su formato que se centra en el diálogo y la generación de conexiones #empresariales con más de 100 CEOs del sector Fintech. https://t.co/Pe6VdlpUHf",,,,,,https://pbs.twimg.com/media/FzTaNQYXoAA3wto?format=jpg&name=orig,https://pbs.twimg.com/media/FzTaPbdX0AMzUk1?format=jpg&name=orig,,,
-2023-06-23T11:19:45+00:00,https://twitter.com/ecooorg/status/1672202779840978944,ecooorg,"Join us August 17 at #ECOOcamp Ottawa!!
-Registration is FREE for all educators.
-https://t.co/4pIuaFh0w3
-* featured speakers
-* tinkerspace playground
-* unconference sessions
-* did we mention DOOR PRIZES? https://t.co/JKHug5uGA7",http://bit.ly/ecoocamp_register,,,,,https://pbs.twimg.com/media/FzTbkOZWAAAb3zF?format=jpg&name=orig,,,,
-2023-06-23T09:58:02+00:00,https://twitter.com/Gemma_Lelliott/status/1672182214837010435,Gemma_Lelliott,"Reminder from @jo_carter64, the key rules of an unconference:
-
-Have fun
-Go where you can make a difference 
-Make space for everyone to speak
-
-Ready for the pitches now to see what we'll be collaborating on today 😊 #GCCy23",,,,,,,,,,
-2023-06-23T08:52:45+00:00,https://twitter.com/_PoojaKulkarni/status/1672165788059594752,_PoojaKulkarni,"Had a great time yesterday attending #SIPS2023 remotely. Especially, the unconference organized by @hcp4715 and roundtable by @ProjectUspas's @nainikahira &amp; @snehajha_22  were super insightful. Also enjoyed the presentation by @MunnaRShainy for @PsychRStats. Excited about day 2! https://t.co/dPSBMHnGbt",,,,,,https://pbs.twimg.com/media/FzS07MfaIAE-0DV?format=jpg&name=orig,https://pbs.twimg.com/media/FzS1HxiaQAABXmY?format=jpg&name=orig,https://pbs.twimg.com/media/FzS1LsXaEAATgy4?format=jpg&name=orig,,
-2023-06-23T08:43:48+00:00,https://twitter.com/Bunshu23/status/1672163534434861056,Bunshu23,"I'm joining this unconference workshop after the E. coli (or bacterial) workshop at Keio U, Yamagata. In ETH, I organized our research retreat &amp; workshop to integrate topics from different disciplines. That was fantastic, so looking forward to joining this event! Kudos to MSB Lab",,,,,,,,,,
-2023-06-23T07:17:11+00:00,https://twitter.com/NeilTamplin/status/1672141737714909184,NeilTamplin,"Have a peek at #gccy23 if you want to follow along with happenings at @GovCampCymru today. 
-
-(Or if you want to filter my unconference related tweets from your timeline)",,,,,,,,,,
+Read the article here: https://t.co/kUQdvLwvUR",https://www.linkedin.com/pulse/identity-cloud-indiciotech,,,,,,,,,
+2023-06-26T22:02:14+00:00,https://twitter.com/IndicioID/status/1673451630220705792,IndicioID,"Learn how you can use #verifiablecredentials to have a more seamless travel experience in the latest video from @SITAonline featuring Indicio CEO @heathercdahl:
+https://t.co/qcKMdZtEB6",https://www.youtube.com/watch?v=cNmQAEjwPjA,,,,,,,,,
 2023-06-21T17:46:36+00:00,https://twitter.com/ziden_io/status/1671575359941386240,ziden_io,"Which tech for #digital #identity do you think will shape the future?
 
 Why did you choose that? Give your thought below ⬇️ and like this post 👍
@@ -191,19 +137,53 @@ https://t.co/1HLTvmkkwO
 2023-06-15T13:36:01+00:00,https://twitter.com/SSI_Ambassador/status/1669337970845810689,SSI_Ambassador,"Gain insights on the adoption of Verifiable Credentials with this report from @mydiacc 📄🔐 Understand challenges, benefits, and trends in this comprehensive overview! #VerifiableCredentials 
 
 https://t.co/QWsEcLChYg https://t.co/hNvuRW321e",https://diacc.ca/wp-content/uploads/2023/05/Perspectives-on-the-Adoption-of-Verifiable-Credentials-1.pdf,,,,,https://pbs.twimg.com/media/FyquCU9X0AAjMpv?format=jpg&name=orig,,,,
-2023-06-14T23:46:46+00:00,https://twitter.com/GateKeeperId/status/1669129281417674752,GateKeeperId,"Our recent integration partnership with @proofofhumanity is a great PoC of GateKeepers' customizability. 
+2023-06-29T18:06:39+00:00,https://twitter.com/NomicoLabs/status/1674479506248159234,NomicoLabs,"3⃣One of the key aspects of Web3 is the concept of self-sovereign identity. Instead of relying on centralized entities, users can now manage their digital identities securely and independently. Say goodbye to data breaches and hello to digital autonomy! #SelfSovereignIdentity",,,,,,,,,,
+2023-06-29T14:19:07+00:00,https://twitter.com/veiovia/status/1674422245060673539,veiovia,"🔒 Concerned about #databreaches and misuse of personal data? #Selfsovereignidentity could be the solution!
 
-We offer custom claim pages to be generated within your dashboard, delivering a highly customized yet simplified means of issuing #VerifiableCredentials to your audience. https://t.co/EcuQ7cs4l6",,,,,,https://pbs.twimg.com/media/FynvzVGagAEvI3I?format=jpg&name=orig,,,,
-2023-06-14T12:01:02+00:00,https://twitter.com/vibronet/status/1668951679645958145,vibronet,Really good chat with Martin from @kuppingercole during @eic_conference #EIC2023 in Berlin last month - #VerifiableCredentials and various other fashionable topics 💪 https://t.co/O2Lp7ohQXB,https://youtu.be/kOaHlmihCog,,,,,,,,,
-2023-06-13T15:02:38+00:00,https://twitter.com/drummondreed/status/1668634990010339335,drummondreed,"Today only Manning is offering 45% off on the book that 54 of us co-authored on Self-Sovereign Identity. If you want to know all about the world of #digitalwallets and #verifiablecredentials, check it out.  @ManningBooks: https://t.co/SAoUTSOKwc",http://mng.bz/WrEx,,,,,,,,,
-2023-06-13T13:36:00+00:00,https://twitter.com/SSI_Ambassador/status/1668613190098231299,SSI_Ambassador,"Webinar on Verifiable Credentials and Digital Wallets with Erik Scott at CI Compass 🎓💼 Get an overview of the latest trends &amp; technologies! #VerifiableCredentials #DigitalWallets
+💻 Want to learn more? Check out our infographic on how SSI can protect your #digitalidentity⬇️⬇️
 
-https://t.co/pWYUQi2hor",https://ci-compass.org/resource-library/webinar-webinar-verifiable-credentials-and-digital-wallets-an-overview-with-erik-scott/,,,,,,,,,
-2023-06-12T11:30:20+00:00,https://twitter.com/CondatisUK/status/1668219175238500355,CondatisUK,"🚀 Discover how Sellafield Ltd is transforming staff movement within the nuclear industry with our verifiable credentials case study. 
-#SellafieldLtd #StaffMovement #VerifiableCredentials #Innovation 
-➡️https://t.co/WkK0A2PLZO.",https://bit.ly/3lKzfjN,,,,,,,,,
-2023-06-09T17:14:33+00:00,https://twitter.com/vibronet/status/1667218637160325121,vibronet,"People said good things about the design of the deck of my #VerifiableCredentials for identity practitioners sessions at #EIC and #Identiverse, so sharing the terminology slide here.
-We'll likely update the https://t.co/10G1sNbb84 collection with #VC concepts - LMK if there are concepts you need a visual for!",https://identicons.dev/,,,,,https://pbs.twimg.com/media/FyMlm8SakAIM1IF?format=jpg&name=orig,,,,
+🔑 With #SSI, individuals have complete control over their digital identity, reducing the risk of #personaldata being mishandled or stolen.
+
+🌐 It also offers a more secure and convenient way to share personal information, without the need for #centralized identity systems.",,,,,,https://pbs.twimg.com/media/Fzy9ZI7aUAkI2TT?format=jpg&name=orig,,,,
+2023-06-29T02:18:14+00:00,https://twitter.com/solomonyisrae1/status/1674240828837961728,solomonyisrae1,"Ever seen this with #MergingWorlds in the #Metaverse ? 
+
+🤣🤣🤣🤣
+
+Hard to get real 🍫 women in the space when this all they see this combined with emotional #TrollX 
+
+#SelfSovereignIdentity 🕵🏿‍♂️ https://t.co/wUeRRAXGe5",,,,,,https://pbs.twimg.com/media/FzwZKJ7WwAALyij?format=jpg&name=orig,https://pbs.twimg.com/media/FzwZKTtXoAE4_d0?format=jpg&name=orig,,,
+2023-06-28T07:57:17+00:00,https://twitter.com/veiovia/status/1673963769209257985,veiovia,"Own your #digitalidentity with portable identities. 
+
+#SelfSovereignIdentity solutions empower you to control and share your data securely. Say goodbye to centralized authorities👋
+
+Take charge of your digital presence and unlock new opportunities. 
+
+ #SSI #Empowerment #DID",,,,,,,,,,
+2023-06-27T12:42:52+00:00,https://twitter.com/luuminizev/status/1673673250277138432,luuminizev,"Embracing the power of #DecentralizedIdentity solutions, empowering individuals to take control of their digital presence and privacy. 🔐👤 #SelfSovereignIdentity #DigitalPrivacy",,,,,,,,,,
+2023-06-27T11:59:38+00:00,https://twitter.com/TradingMindsets/status/1673662368394489857,TradingMindsets,"""Empowering Digital Identity with Decentralized Identity (DID) Solutions""
+#DID #DigitalIdentity #Blockchain #SelfSovereignIdentity https://t.co/Spx8ImVHnV",,,,,,https://pbs.twimg.com/media/FzoLDajXgAMBvXc?format=png&name=orig,,,,
+2023-06-27T11:28:52+00:00,https://twitter.com/hydraledger/status/1673654624635740160,hydraledger,"Incredible! 🚀🌐 The future of #DecentralizedIdentity is here, and its name is #Hydraledger! It's more than just a #token, it's a revolution in personal data control 🛡️💪. Embrace your #SelfSovereignIdentity with #DID and reclaim your #privacy in this digital world 🕵️‍♂️💻. Join the revolution now! This is not just a trend, it's the next BIG thing! 👀🔥 #Blockchain #SSI #HydraledgerRevolution #Cryptocurency 
+
+Dive in today 👉 https://t.co/yTkwtf8r5k 👈 and take control of your digital identity!",http://www.hydraledger.io,,,,,,,,,
+2023-06-27T10:26:08+00:00,https://twitter.com/veiovia/status/1673638840269955072,veiovia,"Strengthen data sovereignty and protect your personal information from unauthorized access. 
+
+Explore #decentralizedidentity frameworks, #blockchaintechnology, and #cryptographic protocols. Empower yourself with privacy and security. 
+
+#SelfSovereignIdentity #Privacy #Security",,,,,,,,,,
+2023-06-26T12:04:16+00:00,https://twitter.com/Cassiopeia_ltd/status/1673301148013580289,Cassiopeia_ltd,"🌍 The Automation of #KYC &amp; #KYB Verification: Revolutionizing International #Payments &amp; Self-Sovereign Identity! 💡🚀
+
+🔍 Embrace the future of #identity verification! 
+
+🌐 Learn more: https://t.co/T0pzkHzZxr
+
+#Automation #SelfSovereignIdentity #Fintech @stefixy @IAM_X_IDENTITY",https://cassiopeiaservicesltd.medium.com/the-automation-of-kyc-and-kyb-verification-revolutionizing-international-payments-and-cf8d7cc713bc,,,,,,,,,
+2023-06-26T09:35:09+00:00,https://twitter.com/veiovia/status/1673263619662856194,veiovia,"Self-sovereign identity empowers individuals to securely manage their medical information, enabling streamlined access, improved #data accuracy, and enhanced patient-provider relationships. 
+
+#SelfSovereignIdentity #DataPrivacy",,,,,,,,,,
+2023-06-26T05:39:40+00:00,https://twitter.com/raininfotech/status/1673204359180550144,raininfotech,"Adoption represents the most significant difficulty for decentralized digital identification systems since it adds complexity to the system, necessitating alterations .
+
+#raininfotech #decentralization #decentralizedidentity #selfsovereignidentity #blockchainidentity #security https://t.co/JpLvkgoDtK",,,,,,https://pbs.twimg.com/media/FzhqfIBXgAA32mb?format=jpg&name=orig,https://pbs.twimg.com/media/FzhqfVHXgAEIlDX?format=jpg&name=orig,https://pbs.twimg.com/media/Fzhqfk_XsAMH1v3?format=jpg&name=orig,https://pbs.twimg.com/media/FzhqfxyWYAAcFcR?format=jpg&name=orig,
+2023-06-25T00:14:51+00:00,https://twitter.com/AngelPowel8754/status/1672760230092890112,AngelPowel8754,"With Web3, users gain control over their data through self-sovereign identities and encrypted transactions. Trust is built on transparency and immutability, reducing vulnerabilities to cyber threats. #SelfSovereignIdentity #Encryption #Web3Security",,,,,,,,,,
 2023-06-24T03:32:21+00:00,https://twitter.com/SaundersSi25375/status/1672447541777154048,SaundersSi25375,Promote decentralized identity solutions to empower individuals with control over their personal data in the digital realm. #d2tradecoin #selfsovereignidentity https://t.co/wBJwRbLx9j,,,,,,https://pbs.twimg.com/media/FzW6IAFaYAAUdpT?format=jpg&name=orig,,,,
 2023-06-23T10:43:41+00:00,https://twitter.com/veiovia/status/1672193704164040708,veiovia,"In the age of data privacy concerns, self-sovereign identity systems empower users with the ability to selectively disclose their #data. 
 
@@ -217,9 +197,7 @@ Take control of your #digitalidentity and share information on your own terms.
 Experience secure and #decentralized verification like never before. 
 
  #Verifiability #PrivacyProtection",,,,,,,,,,
-2023-06-21T14:43:24+00:00,https://twitter.com/Extrimian/status/1671529252947210243,Extrimian,"El episodio destaca la importancia de la identidad auto-soberana (SSI). La SSI es una forma de que los individuos posean y controlen sus propios datos. Esto significa que pueden decidir quién tiene acceso a sus datos y cómo se utilizan.
-
-#DataSecurity #SelfSovereignIdentity",,,,,,,,,,
+2023-06-21T18:57:00+00:00,https://twitter.com/CryptoDshjsbza/status/1671593074890506245,CryptoDshjsbza,🔑 Secure your digital identity with #Blockchain! ✅ Explore decentralized identity solutions and protect your personal information from data breaches. #SelfSovereignIdentity #PrivacyMatters,,,,,,,,,,
 2023-06-21T13:28:50+00:00,https://twitter.com/veiovia/status/1671510489879158787,veiovia,"Unlock the power of #SelfSovereignIdentity, where users have full control over their #personaldata and #digitalidentity. 
 A new way to empowerment, privacy, and security. 
 
@@ -231,117 +209,6 @@ Join the movement where individuals are in charge of their own information.
 It explores real-world scenarios, the guardianship relationship, and challenges in implementing guardianship in SSI. Get informed and empower digital inclusivity! 
 
 https://t.co/IPMoNWWdHT https://t.co/S7CojL0Ofa",https://sovrin.org/wp-content/uploads/Guardianship-Whitepaper-V2.pdf,,,,,https://pbs.twimg.com/media/FzEXWfCWcAIw0lM?format=jpg&name=orig,,,,
-2023-06-20T10:33:21+00:00,https://twitter.com/veiovia/status/1671103938978881537,veiovia,"Take control of your digital identity with #SelfSovereignIdentity systems, ensuring privacy and security by empowering individuals. 
-
-Join VEIOVIA in exploring a safer and more private online world.
-
-#SSI #Privacy #Security #DigitalIdentity",,,,,,,,,,
-2023-06-20T06:00:00+00:00,https://twitter.com/vuorenoja/status/1671035148249493504,vuorenoja,"Our team has published workshop material for Findy Agency. It contains step-by-step, easy-to-follow instructions on how to build and use agency clients.
-
-Check it out and send your feedback 🙏
-
-#selfsovereignidentity #decentralizedidentity #opensource 
-
-https://t.co/MEtGApaBse",https://findy-network.github.io/blog/2023/06/13/the-agency-workshop/,,,,,,,,,
-2023-06-19T22:11:17+00:00,https://twitter.com/nakamura_loveNY/status/1670917191565189121,nakamura_loveNY,"The rise of decentralized identity solutions based on blockchain technology has the potential to revolutionize digital identity management, putting individuals in control of their personal data. #SelfSovereignIdentity",,,,,,,,,,
-2023-06-19T19:58:31+00:00,https://twitter.com/nbhaskar888/status/1670883781794844677,nbhaskar888,"@lomads_co @speakup @thegrifft @Giveth @tecmns @sheklemec Very kind of you @speakup! 😍
-Find more details here: https://t.co/OYrIXY4L5a
-
-#SelfSovereignIdentity #BlockchainIdentity #DataSovereignty #ProofOfContribution #DAO",https://lomads-1.gitbook.io/lomads/lomads-protocol,,,,,,,,,
-2023-06-19T13:54:54+00:00,https://twitter.com/kamranmirhazar/status/1670792272990937095,kamranmirhazar,"Our Vision is a #HumanCentered #DigitalSociety and #DigitalSovereignNation.
-Our Mission is to construct a #SelfSovereignIdentity and build the #Ecosystem of Digital #Hazaristan with meaningful and functional interactions &gt;
-https://t.co/ZCOK2B1xPn",https://www.digitalhazaristan.com/,,,,,,,,,
-2023-06-19T13:48:13+00:00,https://twitter.com/DigiHazaristan/status/1670790590424838144,DigiHazaristan,"Our Mission is to construct a #SelfSovereignIdentity and build the #Ecosystem of Digital #Hazaristan with meaningful and functional interactions &gt;
-https://t.co/EGojoDfSQL",https://www.digitalhazaristan.com/,,,,,,,,,
-2023-06-19T10:29:45+00:00,https://twitter.com/veiovia/status/1670740646842310657,veiovia,"In a digital world, empowering individuals with ownership of their data is crucial. #Selfsovereignidentity gives you control over your digital footprint, ensuring privacy, security, and freedom. 
-
-Say goodbye to #databreaches and hello to #dataownership.
-
-#Privacy #Security",,,,,,,,,,
-2023-06-17T18:11:16+00:00,https://twitter.com/HagoodJays49471/status/1670132012596723713,HagoodJays49471,Attending a workshop on decentralized identity solutions. Taking control of my digital identity! 🔐🌐 #decentralizedidentity #digitalprivacy #selfsovereignidentity,,,,,,,,,,
-2023-06-17T18:05:45+00:00,https://twitter.com/FrancellaJ67369/status/1670130626370969600,FrancellaJ67369,Attending a workshop on decentralized identity solutions. Taking control of my digital identity! 🔐🌐 #decentralizedidentity #digitalprivacy #selfsovereignidentity,,,,,,,,,,
-2023-06-17T16:01:04+00:00,https://twitter.com/bonglo_eth/status/1670099249839869952,bonglo_eth,"7/ 🆔 @0xPolygonLabs ID
-
-Polygon ID is a blockchain-native identity system.
-
-This is a significant step towards self-sovereign identity in the Web3 space.
-
-Providing users with more control over their digital identities.
-#PolygonID #SelfSovereignIdentity
-
-https://t.co/EusQxW89GG",https://polygon.technology/polygon-id,,,,,,,,,
-2023-06-17T01:00:11+00:00,https://twitter.com/SelfKey/status/1669872532437041152,SelfKey,"🚀🧑 Self Sovereign Identity (SSID) aims to provide individuals with complete ownership and control over their private digital data. 👇
-#SelfSovereignIdentity #DigitalSafety #Teknoloji #区块链 https://t.co/5NTxGkUovG",,,,,,https://pbs.twimg.com/media/FyyUN5yXsAEonpC?format=jpg&name=orig,,,,
-2023-06-16T22:14:10+00:00,https://twitter.com/SelfKey/status/1669830754837168131,SelfKey,"🔐🌐 At the moment, #SelfSovereignIdentity is an ideal, a work in progress. Until then, everything you do to protect your digital identity matters. Make sure your passwords are strong and unique!
-#SSI #CyberSecurity #区块链 #Teknoloji https://t.co/d0GYwaGDLU",,,,,,https://pbs.twimg.com/media/FyxuONFXwAEcmMF?format=jpg&name=orig,,,,
-2023-05-25T13:36:00+00:00,https://twitter.com/SSI_Ambassador/status/1661727821377552385,SSI_Ambassador,"Dive into the key takeaways from the 36th Internet Identity Workshop #IIW, empowering the future of digital identity &amp; trust. Summary by @mathieu_glaude published at #TrustOverIP @trustoverip 🔗🌐💡 
-
-https://t.co/pYRg1c6RyW",https://trustoverip.org/blog/2023/04/28/internet-identity-workshop-36-in-review,,,,,,,,,
-2023-03-21T09:53:54+00:00,https://twitter.com/ciferr_UBC/status/1638116717116129280,ciferr_UBC,"Trust Over IP Foundation is working to solve today's most important digital trust issues.
-Take this short survey (&lt; 3 mins) to help build a better internet for everyone!  
-#digitalid #trustoverip Blockchain@UBC https://t.co/9avNSOOZLD",https://lnkd.in/dZC4NRWY,,,,,,,,,
-2023-02-20T23:35:20+00:00,https://twitter.com/alphacurve/status/1627814186985349120,alphacurve,Veric as a word means the highest magnitude of love. It comes from Verifiable Credentials. It is the data exchange protocol located in #TrustOverIP layer 3. It is the love given by the user centric Web3 to its own people.,,,,,,,,,,
-2023-01-22T23:50:19+00:00,https://twitter.com/MYC_ODD_APP/status/1617308711298506753,MYC_ODD_APP,"#Arcblock is actively involved with these organizations. 
-
-#DID is the key 🔑 
-
-#ABT digital identity solutions + #WEB3 foundational layer is right in front of many people.
-
-The major flood is coming for Authentic Web3 Companies.
-#Cern #W3C #DIF 
-#Hyperledger #Linux #TrustOveriP https://t.co/vxRXRphNMN",,,,,,https://pbs.twimg.com/media/FnHVs4TWQAUjCvA?format=jpg&name=orig,,,,
-2023-01-19T14:00:40+00:00,https://twitter.com/continuumloop/status/1616073158926422018,continuumloop,Cultural blindness &amp; dissonance in #digitalidentity systems can harm certain groups. @trustoverip new paper addresses this issue &amp; proposes solutions. #digitalidentity #inclusion #responsibility #trustoverip #inclusion #responsibility #culturalawareness https://t.co/ryEkMienwv,https://smpl.is/ue2i,,,,,,,,,
-2023-01-18T14:39:06+00:00,https://twitter.com/continuumloop/status/1615720442257616897,continuumloop,Excited to be a part of the team behind the new paper on digital identity harms by @trustoverip. Join us in creating a more responsible digital identity ecosystem! #digitalidentity #harms #prevention #responsibletech #trustoverip #identityprotection https://t.co/ts08PjktwW,https://smpl.is/ue1p,,,,,,,,,
-2023-01-14T00:01:19+00:00,https://twitter.com/trustoverip/status/1614049988555976705,trustoverip,"Ankur Patel speaks at the #ToIP Ecosystem Foundry Working Group on Microsoft's work with #DIF and #W3C communities on building systems with decentralized identifiers and verifiable Credentials.  #entra, #microsoft, #identity, #trustoverip
-
-https://t.co/dkaoB1lAk3 https://t.co/oacdAnpsBK",https://www.linkedin.com/events/entraverifiedid-atrustworthyway7019814808451510272/comments/,,,,,https://pbs.twimg.com/media/FmZBftRacAAbglB?format=jpg&name=orig,,,,
-2023-01-10T17:45:57+00:00,https://twitter.com/Schellman/status/1612868358709383186,Schellman,"Scott Perry, a pioneer and leader in our Crypto and Digital Trust Services, discusses what this service line is and how it's shaping the future of privacy on the internet. Watch now on YouTube: https://t.co/fOID8S4q4p
-#Crypto #Cryptography #Schellman #Privacy #TrustOverIP",https://hubs.ly/Q01xxGZw0,,,,,,,,,
-2022-12-08T15:51:29+00:00,https://twitter.com/continuumloop/status/1600880752626900992,continuumloop,Check out our blog post for a recap of our year in review webinar! We've posted the recording for anyone who missed it. #DigitalTransformation #DigitalID #TrustRegistry #DigitalWallet #TrustOverIP https://t.co/3zaqNSUowv via @darrello,https://www.continuumloop.com/2022-year-in-review/,,,,,,,,,
-2022-10-27T23:27:27+00:00,https://twitter.com/MYC_ODD_APP/status/1585775210912837632,MYC_ODD_APP,"#Arcblock #ABT has worked among giants to bring DID standardization 
-
-#DID 
-
-#Blackrock #Accenture #Hyperledger #DIF #TrustOverIP 
-#Algorand #IMF #W3c #CERN #Microsoft #Amazon #DLT",,,,,,,,,,
-2022-10-06T22:08:10+00:00,https://twitter.com/MYC_ODD_APP/status/1578145114026782720,MYC_ODD_APP,"#Arcblock #ABT 
-
-186m coin cap 
-
-#TrustOverIP #Hyperledger #Accenture #Blackrock #WTIA #CascadiaBlockchainCouncil #IBM #Microsoft #W3c #DIF #Coinbase https://t.co/Zg0zCs1S8I",,,,,,https://pbs.twimg.com/media/Feayk7qXkAA2bED?format=jpg&name=orig,,,,
-2022-10-06T20:58:44+00:00,https://twitter.com/MYC_ODD_APP/status/1578127642536149011,MYC_ODD_APP,"#Arcblock #ABT 
-
-186m coincap listed on #coinbase 🚨🏆#blackrock
-
-#W3C #TrustOverIP #Hyperledger #Accenture #OpenID #Linux #DIF #Web3 implementation Standard https://t.co/FTZ1Gv6Wed",,,,,,https://pbs.twimg.com/media/Feaiub6XgB47FLb?format=jpg&name=orig,,,,
-2022-09-16T05:33:42+00:00,https://twitter.com/VirealZ/status/1570647091969667073,VirealZ,"Richard Wong in the $ABT #ArcBlock telegram knows how to read and knows what a partnership really is.
-
-#ABT is partnered with:
-
- #BLACKROCK 
-#WTIA 
-#TRUSTOVERIP 
-#TOIP 
-#W3C
-#CascadiaBlockchainCouncil
-#DecentralizedIdentityFoundation
-#DiD 
-#Hyperledger
-#Microsoft 
-#Tmobile https://t.co/T00551Xktv",,,,,,https://pbs.twimg.com/media/FcwO_BuacAEXUNy?format=jpg&name=orig,,,,
-2022-09-13T16:50:08+00:00,https://twitter.com/drummondreed/status/1569730157111558144,drummondreed,"At the final session of #HyperledgerForum, Rhode Island Secretary of Commerce @LizTannerRI and tech consultant Jim Mason show how the combination of the #VerifiableCredentials digital trust triangle and the #TrustOverIP governance model solved RI’s initial anti-fraud use cases. https://t.co/NPQzLTPPFb",,,,,,https://pbs.twimg.com/media/FcjNQanXgAAXiuj?format=jpg&name=orig,,,,
-2022-09-13T14:27:12+00:00,https://twitter.com/GLEIF/status/1569694189293543427,GLEIF,"We’re a day away from the first-ever Trust Over IP Summit!
-
-The event offers a great opportunity to learn more about the role of ToIP in enabling Internet-scale #digital #trust &amp; to meet some of our many members. 
-
-#ToIPSummit #TrustOverIP #OSSummit #HyperledgerForum #LEI",,,,,,,,,,
-2022-09-12T13:24:44+00:00,https://twitter.com/drummondreed/status/1569316079100362755,drummondreed,"At #Hyperledger Global Forum, #TrustOverIP Steering Comm. Member &amp; #Governance Stack WG Co-Chair Scott Perry explains that compliance really starts to matter when regulatory authorities starts to care about the risks associated with #verifiablecredentials and #digitaltrust. https://t.co/dcT8z7pBot",,,,,,https://pbs.twimg.com/media/FcdUpzsXoAA2QXv?format=jpg&name=orig,,,,
-2022-09-07T13:00:03+00:00,https://twitter.com/Avast/status/1567497927886573568,Avast,"Join us at the @trustoverip Summit in Dublin on Sept 14! Register today ➡️ https://t.co/jBJQCkBuKt
-#TrustOverIP #ToIPSummit https://t.co/lY6NZ3jZah",https://ava.st/3AfvDwI,,,,,https://pbs.twimg.com/media/FcDfDvBX0AEt8Ou?format=jpg&name=orig,,,,
-2022-09-06T19:26:11+00:00,https://twitter.com/continuumloop/status/1567232714658521090,continuumloop,The Trust Over IP Foundation's Trust Registry Task Force is committed to creating a secure and interoperable digital ecosystem. #trustoverip #trustregistries #digitalidentity https://t.co/1DChjrp09b via @darrello,https://www.continuumloop.com/trust-registry-task-force/,,,,,,,,,
-2022-08-30T11:00:01+00:00,https://twitter.com/Avast/status/1564568617471049729,Avast,"Going to the @trustoverip Summit on Sept 14? Drummond Reed, Director, Digital Trust Services at Avast, will be speaking! See the full lineup ➡️ https://t.co/TqW7tLgvzs
-#TrustOverIP #ToIPSummit https://t.co/ZOkUkHRoMx",https://ava.st/3Kj8ePz,,,,,https://pbs.twimg.com/media/FbZ23YPWIAMJQFQ?format=jpg&name=orig,,,,
-2022-08-20T10:55:45+00:00,https://twitter.com/marie_wallace/status/1560943663794081797,marie_wallace,"Looking forward to our first #ToIPSummit as part of the The Linux Foundation open source conference. Get hands-on with DIDs, VCs, and get the inside track on standardization efforts. Plus, it's a great excuse to visit #ireland :-) #TrustOverIP #privacy #i…https://t.co/QUXGHb85uE",https://lnkd.in/erVzDdf4,,,,,,,,,
 2023-06-07T11:56:40+00:00,https://twitter.com/The_AVPA/status/1666413863821012992,The_AVPA,"Dr. Michael Scholl, Director of the Swiss Federal Office for Justice, welcomes delegates to the first Digital Identity unConference Europe #DICE2023 in Zurich. The invent is the second international equivalent of the long-standing #InternetIdentityWorkshop in Mountain View, CA. https://t.co/iqUm4uZnUK",,,,,,https://pbs.twimg.com/media/FyBKkteX0AIKgwE?format=jpg&name=orig,,,,
 2023-04-19T12:25:54+00:00,https://twitter.com/docknetwork/status/1648664214544809987,docknetwork,"Our company heads @N1ckLambert and @elinacadouri are currently attending the Internet Identity Workshop in the CA, USA, exchanging ideas about the latest advancements in internet identity. 
 
