@@ -8,7 +8,8 @@ layout: single
   {% assign post_in_seconds = row.date | date: "%s" | plus: 0 %}
   {% assign recent_posts = "now" | date: "%s" | minus: timeframe  %}
 
-  {% if post_in_seconds > recent_posts %}
+  {% if post_in_seconds > recent_posts%}
+  {% unless row.Source contains "dvertiser" %}
     <h5><a href="{{row.url}}" target=”_blank”>{{row.content | truncate: 60}}</a> {{row.date  | date: "%Y-%m-%d"  }} {{row.username}}</h5>
     <blockquote>{{row.content}}</blockquote>
     {% if row.link0 != Nil %}<p><a href="{{row.link0}}" target=”_blank”>{{row.link0}}</a>    
@@ -23,5 +24,6 @@ layout: single
       {% if row.url3 != Nil %}<a href="{{row.url3}}" target="_blank"><img src="{{row.url3}}" width="50%"/></a>{%endif%}
       {% if row.url4 != Nil %}<a href="{{row.url4}}" target="_blank"><img src="{{row.url4}}" width="50%"/></a>{%endif%}
     {% endif %}
+  {% endunless%}
   {% endif %}
 {%endfor%}
