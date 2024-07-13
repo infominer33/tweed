@@ -1,4 +1,8 @@
 date,url,username,content,link0,link1,link2,link3,link4,url0,url1,url2,url3,url4,Source
+2024-07-10 14:55:22+00:00,https://x.com/lukinsisammie/status/1811051595372658894,lukinsisammie,"The connector can also bridge #Stellar to other Hyperledger platforms like Hyperledger Fabric, Aries, Iroha, and Firefly.
+Source : 
+https://t.co/Go5N7wgrlN
+@CheesecakeLabs @Hyperledger https://t.co/01RgqBxcWD",https://www.hyperledger.org/blog/building-bridges-developing-the-stellar-connector-for-hyperledger-cacti?trk=feed_main-feed-card_feed-article-content,,,,,https://pbs.twimg.com/media/GSIl0eOWAAA7ArU.jpg,,,,,Twitter for iPhone
 2024-06-24 12:57:04+00:00,https://x.com/300SqFtSavanna/status/1805223616579056029,300SqFtSavanna,"@Eljaboom Hyperledger Fabric with Hyperledger Aries for identity and apps built on Hyperledger Firefly. Private and public network options, private data even in public consortiums, chaincode can be written in one of many languages and network is manager by the consortium not the owner.",,,,,,,,,,,Twitter Web App
 2024-06-23 07:15:47+00:00,https://x.com/myBIDOfficial/status/1804775344827736455,myBIDOfficial,"Hyperledger Indy and Aries are just 2 of the technologies powering myBID! 
 
@@ -97,10 +101,6 @@ https://t.co/0syxTayqD5",https://paradym.id/changelog,,,,,,,,,,Twitter Web App
 https://t.co/Vl0FEOSMZg https://t.co/KHNGtapoOb",https://forms.gle/1ipZ2yJAZcaXfEoK7,,,,,https://pbs.twimg.com/media/GL-sDPlaAAAsdgB.png,,,,,Twitter Web App
 2024-04-28 07:33:40+00:00,https://x.com/LeahHoustonMD/status/1784486123559133623,LeahHoustonMD,"@DecentralizedID We use DIDCOMM on the @HPECid app!
 Secure direct messaging between doctors connected on the application.",,,,,,,,,,,Twitter for iPhone
-2024-04-28 05:05:56+00:00,https://x.com/yudai007004/status/1784448942710956036,yudai007004,DIDCommってどう試せばいいんやろ？,,,,,,,,,,,Twitter for iPhone
-2024-04-25 18:04:45+00:00,https://x.com/IndicioID/status/1783557776717017165,IndicioID,"Learn how you can connect to IoT devices through DIDComm from Indicio Senior Software Engineer Colton Wolkins!
-
-See a quick demonstration of the technology in action, as well as a breakdown on why you would want to use DIDComm for IoT and how it works: https://t.co/XLb2OuIBaD",https://www.youtube.com/watch?v=ye2OV40ayjQ,,,,,,,,,,Twitter Web App
 2024-06-25 08:12:54+00:00,https://x.com/ZKDID_/status/1805514491620209039,ZKDID_,"Yeh KERI is quite complicated. It’s a key management system. KERI stands for Key Event Receipt Infrastructure. 
 
 Which means even if you lose your key, you can actually rotate it and get a new one. It ties to Identity systems so if someone steals your key they can’t use it. Here is a little summary below, but my understanding, is it gained huge respect in the Identity world because it’s solved a majorly complicated problem about looking after keys?
@@ -216,6 +216,22 @@ https://t.co/ui5f4KEVOw",https://bit.ly/3goJLYL,,,,,,,,,,Twitter Web App
 - #identity in DxOS (collaborative document editing) with @IdentityWoman 
 - @evernym AMA with @esplinr 
 - Child online safety with johnny hermann",,,,,,,,,,,Twitter Web App
+2024-07-10 09:46:13+00:00,https://x.com/ankurb/status/1810973794627985430,ankurb,"This paper co-authored by members of @DecentralizedID, @trustoverip, and various members of the @w3c Credentials Community Group was a great example of how many of us in the tech industry are collaborating for new, interoperable forms of digital identity. The EU Digital Identity Wallet initiative which aims to have reusable ""Digital Identity for all Europeans"". 
+
+Specifically, in this paper/response we addressed a few common concerns and misconceptions that people tend to have about decentralised identity.",,,,,,,,,,,Twitter Web App
+2024-07-09 23:00:39+00:00,https://x.com/kimdhamilton/status/1810811333711122501,kimdhamilton,Upvote if you ❤️ DIDs https://t.co/aE3TjET4UV,https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/issues/278,,,,,,,,,,Twitter Web App
+2024-07-10 02:04:50+00:00,https://x.com/dgdg_app/status/1810857683278348756,dgdg_app,"@crypto_is_good @danostrovsky NGL, I thought the same at first, ... but I don't feel like we highlight sources of information outside of the IC enough in our docs. i.e., the W3C standards for stuff like Verifiable Credentials and WebAuthN. Too often we go off and make all these new names and concepts...",,,,,,,,,,,Twitter Web App
+2024-07-09 17:18:58+00:00,https://x.com/buidlnear/status/1810725343126585502,buidlnear,"Verifiability Knowledge Assets come with Merkle-tree-based cryptographic proofs stored on the blockchain.
+
+This ensures transparency and auditability, making all operations verifiable. They follow the W3C Verifiable Credentials data model.",,,,,,,,,,,Twitter Web App
+2024-07-09 13:24:43+00:00,https://x.com/botsdontcry1/status/1810666394905727478,botsdontcry1,"@ImageSnippets @philarcher1 W3C Verifiable Credentials have been removed in C2PA V2, but should  come back with the work of the  @ContentAuth ""Creator Assertions Working Group"".
+Lead by  the same @Adobe  @andyparsons @pdfsage @ericscouten team, authors of cookie replacement @C2PA_org https://t.co/8BXZ1RgaFx",https://github.com/creator-assertions,,,,,,,,,,Twitter Web App
+2024-07-08 23:03:04+00:00,https://x.com/phr_eidentity/status/1810449550953664643,phr_eidentity,"ようやく本編は終わりです。W3C Verifiable Credentials Overviewを読む（１０）
+https://t.co/IxecE2bFxL",https://idmlab.eidentity.jp/2024/07/w3c-verifiable-credentials-overview_0543277100.html,,,,,,,,,,TweetDeck Web App
+2024-07-07 22:56:16+00:00,https://x.com/phr_eidentity/status/1810085455440089545,phr_eidentity,"今回もW3C Verifiable Credentials Overviewを読みます。
+https://t.co/3EhXR86Tr9",https://idmlab.eidentity.jp/2024/07/w3c-verifiable-credentials-overview_0335022410.html,,,,,,,,,,TweetDeck Web App
+2024-07-06 22:45:31+00:00,https://x.com/phr_eidentity/status/1809720359945662521,phr_eidentity,"引き続きW3C Verifiable Credentials Overviewを読んでいます。
+https://t.co/7WYnSknOvE",https://idmlab.eidentity.jp/2024/07/w3c-verifiable-credentials-overview_7.html,,,,,,,,,,TweetDeck Web App
 2024-07-03 07:07:31+00:00,https://x.com/juanjo_gcia/status/1808397140881772757,juanjo_gcia,@MasDeUno existe el estándar internacional Verifiable Credentials del W3C que permite acreditar la edad sin dar más datos usando Zero Knowledge Proof,,,,,,,,,,,Twitter for Android
 2024-07-01 10:21:11+00:00,https://x.com/Mailchain_xyz/status/1807721104674619429,Mailchain_xyz,"These credentials, which adhere to the W3C Verifiable Credentials standard, provide an additional layer of security by ensuring that the link was clicked by the intended recipient.",,,,,,,,,,,Typefully
 2024-06-27 05:29:25+00:00,https://x.com/PerrineCoet/status/1806198125582799183,PerrineCoet,"@iomicrab @SouveraineTech En tous cas, nous travaillons à partager une infrastructure entre États-membres pour prendre un leadership sur les standards ouverts du W3C de l'""identité auto-souveraine"" avec les verifiable credentials et decentralized identifiers",,,,,,,,,,,Twitter for Android
@@ -251,41 +267,12 @@ W3C Verifiable Credentials Overviewを読む（１）
 https://t.co/l8nsXZwcfk",https://idmlab.eidentity.jp/2024/06/w3c-verifiable-credentials-overview.html,,,,,,,,,,netmarkjp1643121325337370625
 2024-06-20 20:54:42+00:00,https://x.com/InstitutPo/status/1803894268198633595,InstitutPo,"The #InternetComputer just introduced a Verifiable Credentials (VC) Solution that is based on #W3C Open Standard, with walletless and privacy preserving features. Lots of use cases for Proof-of-personhood.
 https://t.co/f7ZGfTkOFH",https://medium.com/@dfinity/introducing-verifiable-credentials-to-the-internet-computer-898f5538dcfb,,,,,,,,,,Twitter Web App
-2024-06-20 07:46:39+00:00,https://x.com/kaula_jp/status/1803695946930463039,kaula_jp,"Battery Web™ W3C準拠実装技術
-・Decentralized Identifiers (DIDs) v1.0 (W3C Recommendation)
-・Verifiable Credentials Data Model v1.1 (W3C Recommendation)
-・DIDComm Messaging v2.0 (DIF Ratified Specification)",,,,,,,,,,,Twitter Web App
-2024-06-19 23:00:41+00:00,https://x.com/phr_eidentity/status/1803563583957303380,phr_eidentity,"W3C Verifiable Credentials Overviewを引き続き。今回はエコシステムを構成するコンポーネントについて。（いわゆる3パーティモデル）
-https://t.co/9n4bf4gwBG",https://idmlab.eidentity.jp/2024/06/w3c-verifiable-credentials-overview_0640474988.html,,,,,,,,,,TweetDeck Web App
-2024-06-18 11:06:42+00:00,https://x.com/bigbagz30k/status/1803021516025811376,bigbagz30k,"DID you realise yet that @cheqd_io provides an infrastructure based on regulations such as #eIDAS2 (**AND ADOPTED OPEN STANDARDS**) Like @w3c Decentralised Identifiers and Verifiable Credentials?
+2024-07-09 08:24:53+00:00,https://x.com/rabble/status/1810590937296322648,rabble,"This is a great write up by https://t.co/jENBOiLIAi looking at Nostr and Bluesky’s Atproto….  Well worth reading for anybody who wants to under...
 
-**ITS ALL ABOUT TRUST REGISTRIES**
-
-$cheq https://t.co/NE4GqDz2kU",,,,,,https://pbs.twimg.com/media/GQWegxdbcAEkXDN.jpg,https://pbs.twimg.com/media/GQWegyJawAA9iUU.jpg,,,,Twitter for Android
-2024-06-18 10:55:56+00:00,https://x.com/quant_network/status/1803018806446481659,quant_network,"@bankofengland @dgwbirch Birch: “Digital identity is smart, dynamic, and interactive. It should make smart decisions about what information to share.”
-
-#EBAday #DigitalIdentity https://t.co/GUyhGnETDN",,,,,,https://pbs.twimg.com/media/GQWcCsVWUAApDRI.jpg,,,,,Twitter for iPhone
-2024-06-16 12:06:20+00:00,https://x.com/KEKEEEEE111/status/1802311747426267646,KEKEEEEE111,"@apo_nft24 verifiable credentialsの規格は教育業界でも着目すべきものだとおもいます。
-
-W3Cが提唱してるものです
-
-https://t.co/59ImJEvir4",https://lastrust.io/2020/05/25/whatisverifiable-credentials/,,,,,,,,,,Twitter Web App
-2024-06-15 04:07:37+00:00,https://x.com/bigbagz30k/status/1801828886311014866,bigbagz30k,"Mr Snowden.
-
-You must dig into what @cheqd_io are doing to enable credential and data ownership.
-
-Based on W3C open specs, decentralized identifiers and Verifiable credentials which is based/built on public Blockchain for anchoring - the cheqd network.
-
-It enables an abstraction layer for decentralized applications to be built upon which renders tooling available for Issuance and credential payments.
-
-The heavy lifting is being done.
-
-$cheq",,,,,,https://pbs.twimg.com/media/GQFh0YIbsAAUvw1.jpg,,,,,Twitter for Android
-2024-06-14 16:21:36+00:00,https://x.com/ManuAF6/status/1801651209473847456,ManuAF6,"3/ Technological Foundations: 
-Using cryptography and Zero-Knowledge Proofs (ZKPs), verifing  credentials without exposing sensitive data.
-
-It adheres to W3C identity standards for seamless integration across traditional and blockchain systems",,,,,,,,,,,Twitter Web App
-2024-06-14 04:23:46+00:00,https://x.com/mfosterio/status/1801470562360787324,mfosterio,"@elonmusk needs to learn about the Verifiable Credentials W3C standards https://t.co/AT1st1REA6. No social media company should have a copy of your ID. Instead they should go through an identy provider that understands protocols and standards like https://t.co/7r6Dzi5Xjx or https://t.co/8CpBqNtwpO. Welcome to Web5, the Self Sovereign decentralized web of trust. https://t.co/G2BeIMOS5g",https://www.w3.org/TR/vc-data-model-2.0/,https://www.id.me,,,,,,,,,Twitter for iPhone
+https://t.co/IM8Qo0zIM6",https://njump.me/npub1lqxauw3yjjf8y5sma55e34ux4td3u7mppkl20qz4na23gh8vj8jsmarj5c,https://njump.me/nevent1qqsttt3hlm8nz3nptld97urwzjajcsrhemscthzfpg6753ew27usqvqzypmvwx4w8fy378v7a3ruhgt7y2wd5sgn5zamde4wzamdwep7989054a23hk,,,,,,,,,nos.social
+2024-07-07 00:18:19+00:00,https://x.com/azu_re/status/1809743715327701399,azu_re,"NostrとATProto(Bluesky)の分散型ソーシャルプロトコルについて。
+どういう経緯で生まれて、どういう目的やデザインになっているかについて。
+標準化のデザインやアプリの構築モデル(AppView)などについて ""Shreyan Jain"" https://t.co/GXfLx49wKG #Bluesky #twitter #sns #history",https://shreyanjain.net/2024/07/05/nostr-and-atproto.html,,,,,,,,,,ƪ(˘⌣˘)ʃ
 2024-07-06 02:44:04+00:00,https://x.com/NeoDBsocial/status/1809418005924696168,NeoDBsocial,"🦋 NeoDB 现已开放 Bluesky / ATProto 支持。
 
 如果已有NeoDB账号，可以直接绑定Bluesky；如尚未注册，可用Bluesky注册新号。
@@ -343,14 +330,10 @@ Typically when a site is ""Federated"", they use ActivityPub to interact with ot
 https://t.co/X6h2hZmdGB",https://docs.bsky.app/blog/2024-protocol-roadmap,,,,,,,,,,Twitter Web App
 2024-05-09 14:56:07+00:00,https://x.com/mazzoned/status/1788583734834319800,mazzoned,"código abierto que se ejecuta en atproto, el protocolo descentralizado que hemos creado"", fue el mensaje de la plataforma. Fundada por Dorsey en 2019, Bluesky comenzó como un equipo interno de Twitter encargado de desarrollar una infraestructura de código abierto en la que",,,,,,,,,,,Twitter Web App
 2024-05-08 02:10:46+00:00,https://x.com/ISE_Ptk/status/1788028741899444621,ISE_Ptk,Bluesky、DM機能追加するらしいけどatprotoの仕様的にいけるもんなのかという疑問がある,,,,,,,,,,,Twitter for Android
-2024-05-08 00:04:05+00:00,https://x.com/LJLMD/status/1787996860453453895,LJLMD,"*“We sincerely thank Jack for his help funding and initiating the Bluesky project,” it posted. “Today, Bluesky is thriving as an open source social network running on atproto, the decentralized protocol we have built.”*
-
-https://t.co/otKf9gP3nL",https://www.theguardian.com/technology/article/2024/may/07/jack-dorsey-quits-bluesky-board-urges-users-stay-elon-musk-x-twitter,,,,,,,,,,Twitter for Android
-2024-05-07 12:20:05+00:00,https://x.com/LaminBallie/status/1787819693828395031,LaminBallie,"We sincerely thank Jack for his help funding and initiating the bluesky project. Today, Bluesky is thriving as an open source social network running on atproto, the decentralized  protocol they’ve have built.",,,,,,,,,,,Twitter for iPhone
-2024-05-06 14:30:14+00:00,https://x.com/TheQuartering/status/1787490058691338445,TheQuartering,"The original creator of Twitter Jack Dorsey has abandoned the lefts ""twitter killer"" &amp; endorsed X. https://t.co/if6317W32i",,,,,,https://pbs.twimg.com/media/GM5wtVEWMAAsJga.png,,,,,Twitter Web App
 2024-06-10 12:01:36+00:00,https://x.com/catonano/status/1800136230149239265,catonano,"Sto cominciando a pensare che atproto, il protocollo di Bluesky, sia tecnicamente migliore di ActivityPub, il protocollo del fediverso
 
 Ecco l'ho detto 🙊",,,,,,,,,,,Twitter for Android
+2024-07-10 13:10:35+00:00,https://x.com/SondreB/status/1811025223354892376,SondreB,"#Nostr, #Web5 and a few other technologies (#Gun) is changing the software development landscape. Devs can now build apps without needing to rent any cloud infrastructure. This ""free"" infrastructure will eventually come at a cost down the road, but for now it's lovely. #DWN #tbd",,,,,,,,,,,Twitter Web App
 2024-05-24 19:00:02+00:00,https://x.com/SoaringDwnSouth/status/1794080935387787622,SoaringDwnSouth,"The Hawks' plans for the No. 1 pick are still TBD. #TrueToAtlanta 
 https://t.co/13cq9TzWUp",http://soaringdownsouth.com/posts/uconn-clingan-draft-sarr-risacher-fields,,,,,,,,,,Twitter Web App
 2024-04-04 04:37:19+00:00,https://x.com/MarkuzRick/status/1775744433025073553,MarkuzRick,"@TheCavsJack A truthful answer, w/o rose colored glasses on.
@@ -493,8 +476,6 @@ TBD wants to produce a v1.0 of this by July 1, 2022. https://t.co/FiKylPwEXu",,,
 TBD is being built on the DWN spec, which uses DIDs, and has a home at the DIF.
 
 The future is bright!",,,,,,,,,,,Twitter for Android
-2022-03-25 14:43:45+00:00,https://x.com/iShotUDwn/status/1507367639429099533,iShotUDwn,TBD,,,,,,,,,,,Twitter Web App
-2022-03-24 16:24:32+00:00,https://x.com/AHaitianMermaid/status/1507030614804946949,AHaitianMermaid,Black People Only: At what age did you learn how to swim?,,,,,,,,,,,Twitter for iPhone
 2022-06-13 08:34:38+00:00,https://x.com/t_nihonmatsu/status/1536265778072555520,t_nihonmatsu,"tbdによるとWEB5とは開発者が分散型識別子（DID）と分散型ウェブノード（DWN）を使って分散型ウェブアプリ（DWA）を書くことが可能な分散型ウェブプラットフォーム（DWP）です。これらによってアイデンティティとデータに対する所有権と制御権を個人に返還する事が可能です。
 https://t.co/zBPYS8XYCw https://t.co/8mE01KTF0a",https://developer.tbd.website/projects/web5/,,,,,https://pbs.twimg.com/media/FVHpNaSagAEowG_.png,,,,,Twitter Web App
 2024-06-02 11:08:22+00:00,https://x.com/mbauwens/status/1797223729426272632,mbauwens,"* Case Study:  Bhutan NDI (National Digital Identity) & ToIP Digital Trust Ecosystems 21 May 2024
@@ -806,6 +787,45 @@ more at https://t.co/XjWWbfncp9",http://docs.Hypersign.id,,,,,,,,,,Twitter for i
 2020-05-06 19:07:23+00:00,https://x.com/RealGophersShip/status/1258111134483259392,RealGophersShip,trustbloc/edv (0.1.30): Encrypted data vault implementation in #Golang https://t.co/wwSFEHirx4,https://mdy.io/gh/trustbloc/edv,,,,,,,,,,MelodyBot
 2020-05-06 19:01:19+00:00,https://x.com/RealGophersShip/status/1258109606531870720,RealGophersShip,trustbloc/edv (0.0.1): Encrypted data vault implementation in #Golang https://t.co/wwSFEHirx4,https://mdy.io/gh/trustbloc/edv,,,,,,,,,,MelodyBot
 2020-05-06 18:16:02+00:00,https://x.com/RealGophersShip/status/1258098211606192130,RealGophersShip,trustbloc/edv (0.1.3): Encrypted data vault implementation in #Golang https://t.co/wwSFEHirx4,https://mdy.io/gh/trustbloc/edv,,,,,,,,,,MelodyBot
+2024-07-11 02:30:00+00:00,https://x.com/et_insights/status/1811226405805400340,et_insights,"𝐋𝐞𝐭'𝐬 𝐅𝐢𝐠𝐡𝐭 𝐅𝐚𝐤𝐞 𝐃𝐞𝐠𝐫𝐞𝐞𝐬
+
+India's education system is booming, but so are fake credentials. Blockchain-powered Verifiable Credentials (VCs) can be the answer.
+
+Read more
+
+#ETInsights #Education #VerifiableCredentials #Blockchain 
+https://t.co/nC1C9nXkkz",https://etedge-insights.com/safeguarding-the-education-industry-with-verifiable-credentials-for-indian-educators/,,,,,,,,,,Twitter Web App
+2024-07-10 19:06:17+00:00,https://x.com/IndicioID/status/1811114739868799041,IndicioID,"“Biometrics escalate the risks of data breaches into the realm of catastrophe.”
+
+But the problem can easily be solved with #decentralizedidentity and #verifiablecredentials.
+
+Learn how:
+https://t.co/Ec1e9wLhEs",https://indicio.tech/why-banks-need-to-use-verifiable-credentials-to-protect-biometric-data/,,,,,,,,,,Twitter Web App
+2024-07-10 12:11:28+00:00,https://x.com/goEVDI/status/1811010346179567987,goEVDI,"How are we testing our #testnet
+
+#decentralisedIdentifiers #ssi
+#verifiableCredentials",,,,,,,,,,,Twitter for Android
+2024-07-10 09:41:54+00:00,https://x.com/empe_io/status/1810972709393777029,empe_io,"1/7 Ensuring a smooth &amp; secure Empe Blockchain experience!🔒🚀  
+
+We leverage automated testing frameworks to identify &amp; fix issues before they impact users. Let's explore these frameworks in detail #Empe #Blockchain #Testing https://t.co/phaJnla2Gw",,,,,,https://pbs.twimg.com/media/GSHS0a2XgAEMl37.jpg,,,,,Twitter Web App
+2024-07-10 12:09:49+00:00,https://x.com/goEVDI/status/1811009931065078174,goEVDI,"Check how we improve #EVDI
+
+#decentralisedIdentifiers #ssi
+#verifiableCredentials",,,,,,,,,,,Twitter for Android
+2024-07-08 12:39:19+00:00,https://x.com/empe_io/status/1810292581990797460,empe_io,"Countless hours of R&amp;D + your priceless feedback =  a wave of enhancements to our End-to-End Verifiable Data Infrastructure (#EVDI)
+
+🟣 New, 3x faster Empe Verifiable Data Wallet
+🟣 Empe Issuer demo
+🟣 Comprehensive Testing of Empe #Blockchain
+🟣 Empe Testnet Phase 2",,,,,,,,,,,Twitter Web App
+2024-07-10 07:00:02+00:00,https://x.com/dgwbirch/status/1810931971486277711,dgwbirch,"Stay up to date on the latest #DigitalIdentity and #DigitalMoney news by subscribing to my column on Forbes: https://t.co/OQOAUssBh6
+
+#Identity #Payments #DigitalPayments #Fintech #FinancialServices #CryptoCurrency #DigitalCurrency #CBDCs #VerifiableCredentials https://t.co/xQvKynNbQX",https://buff.ly/3PPg3R1,,,,,https://pbs.twimg.com/media/GSG5B-zWcAA4RcX.jpg,,,,,Buffer
+2024-07-09 21:31:11+00:00,https://x.com/bojko_milla/status/1810788817995268114,bojko_milla,"I'd like to share my Creds to you through https://t.co/H2KUgounqh, a private and secure way of sharing social reputation credentials. Check them out here: https://t.co/fkWxMmwFzm #Creds #SocialReputation #MyInterchainReputation #VerifiableCredentials",http://Creds.xyz,https://profile.creds.xyz/share/lwy-hqzc-flw,,,,,,,,,Twitter for Android
+2024-07-09 11:36:34+00:00,https://x.com/G_ant/status/1810639176846733363,G_ant,Hot off the press! “Market Guide for #DecentralizedIdentity” #Gartner #ITLeaders #identityAndAccessManagement #IAM #DCI #selfSovereignIdentity #SSI #identityWallet #verifiableCredentials https://t.co/rDmpXK8PsS https://t.co/0CaPelDcbU,https://www.gartner.com/document/code/797492,,,,,https://pbs.twimg.com/media/GSCuoQ2W8AAgqzZ.png,,,,,Twitter Web App
+2024-07-09 09:18:28+00:00,https://x.com/cheqd_io/status/1810604424986841420,cheqd_io,"2️⃣ Who are Holders?
+
+A holder can be an individual/organisation, a product/object, who is able to hold and manage these attributes, in the form of #verifiablecredentials and directly consent to when, and with whom, these credentials are shared.",,,,,,,,,,,Twitter Web App
 2024-07-05 21:18:47+00:00,https://x.com/BiometricUpdate/status/1809336144632357013,BiometricUpdate,"Dfinity provides blockchain platform to UNDP trusted credentials framework
 
 #blockchain #Cambodia #digitalidentity #securetransactions #trustframework #verifiablecredentials @dfinity @UNDP 
@@ -944,24 +964,12 @@ https://t.co/t36C1DGpWJ
 
 #OnePass #FundingBox #Web3 #DigitalTrust #funding https://t.co/gyopdQB9NL",https://lnkd.in/ddjuVRNg,,,,,https://pbs.twimg.com/media/GPuRXE7WUAA2XKm.jpg,,,,,Twitter for Android
 2024-06-10 12:49:09+00:00,https://x.com/savannahmright/status/1800148194992742572,savannahmright,"I'd like to share my Creds to you through https://t.co/9aH3CSA4GV, a private and secure way of sharing social reputation credentials. Check them out here: https://t.co/q51LvvfSUy #Creds #SocialReputation #MyInterchainReputation #VerifiableCredentials",http://Creds.xyz,https://profile.creds.xyz/share/ssq-pwkj-emw,,,,,,,,,Twitter Web App
-2024-06-06 19:00:00+00:00,https://x.com/msftsecurity/status/1798791970426380326,msftsecurity,Have you seen how Face Check with Microsoft Entra Verified ID fights impersonation? Check out this demo from Microsoft Build to learn how you can integrate it into your apps: https://t.co/wCXx5jO8gC #VerifiableCredentials #MSBuild,https://msft.it/6012YotA8,,,,,,,,,,Sprinklr Publishing
-2024-06-05 17:37:47+00:00,https://x.com/IndicioID/status/1798408893535748366,IndicioID,"Interested in seeing how #verifiablecredentials and @amazon Verified Permissions can work together to manage access, share large data files, and remove the need for complex integrations?
-
-You can in the latest demonstration from Indicio: https://t.co/M1RwnF83d9
-@windley #IAM #SSI",https://www.youtube.com/watch?v=vJPtQLE6ZHU,,,,,,,,,,Twitter Web App
-2024-06-04 07:33:00+00:00,https://x.com/CondatisUK/status/1797894304943202389,CondatisUK,"Verifiable Credentials: Making People the Network 🌐 
-
-Explore the transformative world of #VerifiableCredentials in our recent blog where we take a look back at the third episode of #VerifyThis with Will Fletcher:
-
-📙https://t.co/CzB923NAcw 
-
-#DigitalIdentity #IAM #cybersecurity",http://condatis.com/news/blog/understanding-verifiable-credentials/,,,,,,,,,,Twitter Web App
-2024-06-03 20:20:32+00:00,https://x.com/drummondreed/status/1797725076252700852,drummondreed,"Members of @trustoverip are going to be all over panels at #EIC this week. But if you can only attend one ToIP session, make it this one. #decentralized #trust #infrastructure #digitalwallets #verifiablecredentials #SSI",,,,,,,,,,,Twitter for iPhone
-2024-06-03 20:09:58+00:00,https://x.com/darrello/status/1797722416225104129,darrello,"Getting ready to rep @trustoverip at @eic_conference alongside some greats! 
-
-https://t.co/bamjBMcgl3
-
-@drummondreed @esatusAG @GLEIF @accenture @GenDigitalInc https://t.co/WLIyangB8B",https://trustoverip.org/blog/2024/05/23/toip-at-eic-and-beyond-a-summer-of-not-to-be-missed-sessions/,,,,,https://pbs.twimg.com/media/GPLKzjuWcAAlTuC.jpg,,,,,Twitter Web App
+2024-07-13 14:00:27+00:00,https://x.com/SelfKey/status/1812124938733527127,SelfKey,"Zero-Knowledge (ZK) proofs and Self Sovereign Identity (SSID) may put an end to data breaches which lead to identity theft. 
+#SelfSovereignIdentity #DataBreach https://t.co/zqjnvuYUCd",,,,,,https://pbs.twimg.com/media/GSX2BzcXMAECk9C.jpg,,,,,Buffer
+2024-07-09 11:36:34+00:00,https://x.com/G_ant/status/1810639176846733363,G_ant,Hot off the press! “Market Guide for #DecentralizedIdentity” #Gartner #ITLeaders #identityAndAccessManagement #IAM #DCI #selfSovereignIdentity #SSI #identityWallet #verifiableCredentials https://t.co/rDmpXK8PsS https://t.co/0CaPelDcbU,https://www.gartner.com/document/code/797492,,,,,https://pbs.twimg.com/media/GSCuoQ2W8AAgqzZ.png,,,,,Twitter Web App
+2024-07-07 20:38:34+00:00,https://x.com/lucchase/status/1810050801554821293,lucchase,"@david_r_morgan Well, the system has already been developed (since when labour were the government) , so wouldn't take long to review, test and roll out. 
+So, if you're against this, better get campaigning, pronto.
+I'd bet it's not designed for #SelfSovereignIdentity management. Aux contraire.",,,,,,,,,,,Twitter for Android
 2024-07-05 14:00:59+00:00,https://x.com/SelfKey/status/1809225968499707993,SelfKey,"Self Sovereign Identity (SSID) aims to give individuals complete ownership and control over their private digital data. 👇
 #SelfSovereignIdentity #DigitalSafety #Teknoloji #区块链",,,,,,,,,,,Buffer
 2024-06-30 21:44:19+00:00,https://x.com/Leafy_io35/status/1807530631737327924,Leafy_io35,"Decentralized Identity is changing the game, empowering users with control over their data and privacy. Say goodbye to endless KYC processes! Thrilled to see how $leafy and other projects innovate in this space! #DeID #Blockchain #Privacy #SelfSovereignIdentity",,,,,,,,,,,1741624723073589248Leafy_io35
@@ -1008,27 +1016,6 @@ Positioned for a successful #launch 🚀
 #VTRS #WVTRS #Ai #DePin #DAO #Blockchain #compliQ #Layer0BlockChain #compliance #SelfSovereignIdentity https://t.co/OFBUi7lQnB",,,,,,,,,,,Twitter for Android
 2024-06-15 17:44:20+00:00,https://x.com/Leafy_io35/status/1802034421177991464,Leafy_io35,Exploring the potential of Decentralized Identity Solutions that can reshape our digital interactions. Imagine owning your data fully with $ID! Privacy and security are due for an upgrade. #DecentralizedIdentity #Blockchain #PrivacySecurity #SelfSovereignIdentity,,,,,,,,,,,1741624723073589248Leafy_io35
 2024-06-15 11:26:04+00:00,https://x.com/lola_moore8666/status/1801939226642022688,lola_moore8666,"Self-sovereign identity: Empowering individuals with control over their digital identities. Your data, your rules. 🆔🔗 #SelfSovereignIdentity #Blockchain #Privacy",,,,,,,,,,,Twitter Web App
-2024-06-14 08:27:00+00:00,https://x.com/CondatisUK/status/1801531773047669167,CondatisUK,"🌎 Discover how Self-Sovereign Identity (SSI) is revolutionising travel! 
-
-Nick Price covers how it enhances privacy, streamlines processes, and benefits travellers, providers, and intermediaries alike. 
-
-🔗https://t.co/BrTlN5LCt9
-
-#TravelInnovation #SelfSovereignIdentity #ssi",https://www.phocuswright.com/Travel-Research/Technology-Innovation/Self-Sovereign-Identity-Unlocking-Seamless-Travel,,,,,,,,,,Twitter Web App
-2024-06-14 04:41:39+00:00,https://x.com/pla0x1/status/1801475063621029980,pla0x1,"Digital identity has never been more important to digital presence and the economy of trust. MBID, a self-sovereign identity platform, defines the future of an inclusive and secure Web3 identity solution.
-#Selfsovereignidentity #Web3ID #web3‌‌ #identityHub #VC",,,,,,,,,,,Twitter Web App
-2024-06-14 04:28:06+00:00,https://x.com/myBIDOfficial/status/1801471653651570809,myBIDOfficial,"Did you see us at Cryptobilis Bitcoin Pizza Day 2024? 🍕
-
-Our CTO, Paul Agada, recently presented myBID to the Web3 builders of Malaysia 🇲🇾
-
-It was a great time, and we can't wait to see you all at the next event!
-
-#myBID #SSI #DigitalID #ZKP #GovTech https://t.co/t4VDRpsiZb",,,,,,https://pbs.twimg.com/media/GQAc57WbEAAkUcH.jpg,,,,,Twitter Web App
-2024-06-13 12:33:55+00:00,https://x.com/CryptoEconomyEN/status/1801231526446674371,CryptoEconomyEN,"🚀 Polygon Labs Launches Privado ID: A New Era of Self-Sovereign Identity🔐💡
-
-#PolygonLabs #PrivadoID #SelfSovereignIdentity #CryptoNews #Blockchain @Privado_ID @0xPolygon 
-
-Read more: https://t.co/MqUECcMiPP",https://crypto-economy.com/polygon-labs-launches-privado-id-a-new-era-of-self-sovereign-identity/,,,,,,,,,,Twitter Web App
 2024-04-08 16:09:30+00:00,https://x.com/DecentralizedID/status/1777368181247816114,DecentralizedID,"🚀 #DIF will be at #InternetIdentityWorkshop next week! 🎉 Meet @kimdhamilton and @Limarikal and let’s talk #DecentralizedIdentity.
 
 👥 Looking to connect? DM us! 
@@ -1121,6 +1108,12 @@ https://t.co/J5DcBQpCnl",https://internetidentityworkshop.com,,,,,,,,,,Twitter f
 
 @idworkshop #internetidentityworkshop @ComputerHistory https://t.co/giiwqXpKHS",,,,,,https://pbs.twimg.com/media/D5SET8PUUAAAtfz.jpg,,,,,Twitter for Android
 2019-04-28 16:39:47+00:00,https://x.com/liliane_bara/status/1122540927984205825,liliane_bara,Prioritizing Individual Sovereignty over Interoperability https://t.co/rWOIUsxPlH #internetidentityworkshop,https://stories.jolocom.com/prioritizing-individual-sovereignty-over-interoperability-95ec17a36c9b,,,,,,,,,,Paper.li
+2024-07-10 09:13:34+00:00,https://x.com/bigbagz30k/status/1810965578225701330,bigbagz30k,#DLR $CHEQ #EBSI,,,,,,,,,,,Twitter for Android
+2024-07-10 09:00:08+00:00,https://x.com/cheqd_io/status/1810962195288838172,cheqd_io,"cheqd has got it cover! We’re working across #identity communities to meet standards requirements.
+
+🧚eIDAS 2.0  🌐W3C  🎀 @DecentralizedID  🌟 @EU_EBSI
+
+Create your own trusted data economy with confidence. https://t.co/fAPFAgX2wD",,,,,,https://pbs.twimg.com/media/GSHUhMIaQAA4Nxr.jpg,,,,,Typefully
 2024-07-05 08:16:32+00:00,https://x.com/infrachain/status/1809139284856721816,infrachain,"💡Discover how to support the harmonized adoption of tokenized services in 🇪🇺#Europe, fostering internal market competitiveness &amp; strategic autonomy by transitioning from Web2 to #Web3 in this open letter issued by @EUBLASORG👉https://t.co/zILHAs3Wth
 
 #blockchain #EBSI #EU https://t.co/Rn8z9Y8pUd",https://bit.ly/3zoyc2E,,,,,https://pbs.twimg.com/media/GRtZ0CDWIAACUhB.png,,,,,Twitter Web App
@@ -1256,6 +1249,11 @@ https://t.co/6EtpLBS0S2",https://www.biometricupdate.com/202406/eus-blockchain-m
 
 https://t.co/R9GZ3F4QDG",https://alle-info.com/2024-6%ec%9b%94-%ea%b3%a0%eb%93%b1%ed%95%99%ea%b5%90-%eb%aa%a8%ec%9d%98%ea%b3%a0%ec%82%ac-%eb%ac%b8%ec%a0%9c%ec%a7%80-%ec%a0%95%eb%8b%b5-%ed%99%95%ec%9d%b8-%eb%b0%a9%eb%b2%95/,,,,,,,,,,Twitter Web App
 2024-05-30 13:31:01+00:00,https://x.com/DC4EU_project/status/1796172465468547417,DC4EU_project,#DC4EU is working on the #dPKI Trust Framework (using #EBSI) to support the #eIDAS Trust Model in education and developing an #interoperability lab on authentic sources using an open #API in social security.  Read more in the DC4EU 2nd newsletter here: https://t.co/P6g8qXV7yF https://t.co/5Nhwk9x5mC,https://shorturl.at/Y18qG,,,,,https://pbs.twimg.com/media/GO1HsbQXkAAIevc.jpg,,,,,Twitter Web App
+2024-05-30 12:49:33+00:00,https://x.com/carmenpastorse/status/1796162031176892524,carmenpastorse,"Europa crea #Europeum, una EDIC para trasladar la red #EBSI 🚀🚀https://t.co/z6d43lOYNm",https://observatorioblockchain.com/blockchain/europa-crea-europeum-una-edic-para-trasladar-la-red-ebsi/,,,,,,,,,,Twitter Web App
+2024-05-30 12:39:34+00:00,https://x.com/ObserBlockchain/status/1796159518713254042,ObserBlockchain,"Europa crea Europeum, una EDIC para trasladar la red #EBSI https://t.co/D0mVUg7CYO",https://observatorioblockchain.com/blockchain/europa-crea-europeum-una-edic-para-trasladar-la-red-ebsi/,,,,,,,,,,Twitter Web App
+2024-05-29 07:23:43+00:00,https://x.com/archimate/status/1795717642378240079,archimate,"@Chen_IOTA @EU_EBSI @EU_Commission While this post-PCP phase is no longer managed as a direct project of the @EU_Commission, #IOTA is engaging with relevant stakeholders (e.g., the new #Europeum #EDIC, the #EC) to further promote and commercialize #EBSI.",,,,,,,,,,,Twitter Web App
+2024-07-12 08:06:02+00:00,https://x.com/CryptAssets/status/1811673359366914302,CryptAssets,Decentralized PKI Framework for Data Integrity in Spatial Crowdsourcing Drone Services https://t.co/lwNzww5ufo,https://bit.ly/4cBwmdD,,,,,,,,,,dlvr.it
+2024-07-11 09:00:13+00:00,https://x.com/___alien_tech/status/1811324607099547759,___alien_tech,Looking forward to the next bull-run with Internet Computer Protocol's decentralized PKI for secure communication on the network. Solid technology! #ICP #InternetComputer https://t.co/GnjROak3Qq,,,,,,https://pbs.twimg.com/media/GSMeIQYWkAAU5Zt.jpg,,,,,SocialBee
 2024-07-02 14:22:26+00:00,https://x.com/FSFG/status/1808144205316845820,FSFG,Decentralized PKI Framework for Data Integrity in Spatial Crowdsourcing Drone Services. https://t.co/Aaypt6wHyL,https://arxiv.org/abs/2407.00876,,,,,,,,,,CryptographyPapers
 2024-06-27 18:11:31+00:00,https://x.com/zeroauthdao/status/1806389915267281132,zeroauthdao,"🧵 4/13
 
@@ -1334,9 +1332,3 @@ If you hate real shit, stay away",https://discord.gg/xDFj97sMY7,,,,,,,,,,Twitter
 https://t.co/qNFiorvAwq
 
 h/t @RealEdgarKino https://t.co/0lU5WAtyMb",https://kinode.org/blog/post/who-are-you-welcome-to-the-kinode-identity-system,,,,,https://pbs.twimg.com/media/GFV-G5IXUAAAr3l.jpg,,,,,Twitter Web App
-2024-01-26 20:07:03+00:00,https://x.com/darrello/status/1750973645059756261,darrello,"@Steve_Lockstep @KantaraNews @dhsscitech The difference for me is that some will have a Root CA, others will not (fully decentralized PKI) and there will be many different Root CAs.",,,,,,,,,,,Twitter Web App
-2024-01-26 19:22:09+00:00,https://x.com/Steve_Lockstep/status/1750962345009160410,Steve_Lockstep,"@darrello Yes, a decentralized PKI, decentralized at the policy level: every issuer does its own thing and all credentials are different.
-That was the @KantaraNews @dhsscitech “MDAV” verifiable credential PKI. The root CA represents a register of issuers.
-
-https://t.co/2Lax5WBfZd https://t.co/De6UgWcMwl",https://lockstep.com.au/dhs-mdav-project/,,,,,https://pbs.twimg.com/media/GEyq-JsbIAA3CVX.jpg,,,,,Twitter for iPhone
-2024-01-26 18:57:18+00:00,https://x.com/darrello/status/1750956094833500337,darrello,"@Steve_Lockstep yeah but here's the thing - ""a"" (single) PKI won't work. The mandates are too wildly different (e.g. governement credential issuers, food &amp; beverage industry). But yeah - a decentralized/distributed PKI.",,,,,,,,,,,Twitter Web App
