@@ -384,6 +384,13 @@ $cheq #vAI https://t.co/FHLDMTqHwk",,,,,,https://pbs.twimg.com/media/GWWFlRhbQAI
 The U.S. recently announced its plans to use the W3C VC format when issuing immigration docs like green cards – a format that's already been used in many innovative EBSI projects.
 
 Click the link to learn more! 👇https://t.co/FLnBrvRyce",https://ec.europa.eu/digital-building-blocks/sites/display/EBSI/Verifiable+Credentials+Set+to+Transform+Digital+Immigration+Documents+in+the+US,,,,,https://pbs.twimg.com/media/GWI88GYX0AAjnbJ.jpg,,,,,Twitter Web App,,,,,
+2024-10-20 13:16:30+00:00,https://x.com/gslin/status/1847990276624695641,gslin,"弄了 python script 將 mastodon 這邊的東西同步到 bluesky 上面...
+
+https://t.co/gPbmkKVwtv
+
+目前看起來還行，然後在接 atproto 的時候，發現這邊的 API 用的是 application password 的設計，而不是用 oauth token...
+ https://t.co/cmFrrYVrdf",https://github.com/gslin/feed2social,https://abpe.org/@gslin/113339933531077465,,,,,,,,,IFTTT,,,,,
+2024-10-20 09:30:05+00:00,https://x.com/motakasoft/status/1847933294698209298,motakasoft,"GitHub Trending Archive, 18 Oct 2024, TypeScript. xushengfeng/eSearch, langchain-ai/chat-langchain, bluesky-social/atproto, bluesky-social/social-app, electric-sql/pglite, webdriverio/webdriverio, markmap/markmap, electron-userland/electron-builder https://t.co/V3prBDVIYL",https://github.motakasoft.com/trending/?d=2024-10-18&l=typescript,,,,,,,,,,Github Awesome Search,,,,,
 2024-10-18 20:07:12+00:00,https://x.com/StarryMicTwitch/status/1847368855578120640,StarryMicTwitch,@WoodyDevs The Atproto library for Python makes sending posts to Bluesky really simple.,,,,,,,,,,,Twitter Web App,,,,,
 2024-10-18 14:31:12+00:00,https://x.com/ALTCODE255/status/1847284297335820478,ALTCODE255,"@30vocamusic idk what the exact code of 30vocamusic looks like but since it runs on python, you can access the bluesky API through the atproto module. it's like three lines of code to authenticate and you'd put client.login(""bsky username"", ""bsky password"") instead. I recommend NOT+ https://t.co/3ItB4nq9ON",,,,,,https://pbs.twimg.com/media/GaLfR4OakAAlXLg.jpg,,,,,Twitter for Android,https://t.co/e54qZ9PF0a,https://pbs.twimg.com/media/GaLf36GaUAE3CHM.jpg,,,
 2024-10-18 10:12:30+00:00,https://x.com/Lunatic_Ghoul/status/1847219194808631451,Lunatic_Ghoul,"@nekomatsuri_25 在研究Bluesky使用的ATProto
@@ -483,8 +490,6 @@ Now you know!",,,,,,,,,,,Fedica,,,,,
 2024-09-05 06:37:45+00:00,https://x.com/nekonyanma/status/1831582474843123866,nekonyanma,"ざっくり昨日の昼頃(？)くらいから Bluesky への bot 投稿でエラーが出る？
 atproto_client.exceptions.BadRequestError: Response(success=False, status_code=400, content=XrpcError(error='InvalidRequest', message='Profile not found')
 よく判んないけどいろいろ試してみるメモ(-_-；)",,,,,,,,,,,neko-bot v2,,,,,
-2024-09-05 00:30:06+00:00,https://x.com/motakasoft/status/1831489949671276625,motakasoft,"GitHub Trending Archive, 03 Sep 2024, All. MLSysOps/MLE-agent, AppFlowy-IO/AppFlowy-Cloud, aceberg/WatchYourLAN, midday-ai/midday, graviraja/MLOps-Basics, Zeyi-Lin/HivisionIDPhotos, gitroomhq/postiz-app, bluesky-social/atproto https://t.co/vyNdYiQQLu",https://github.motakasoft.com/trending/?d=2024-09-03&l=all,,,,,,,,,,Github Awesome Search,,,,,
-2024-09-04 09:30:05+00:00,https://x.com/motakasoft/status/1831263453857603806,motakasoft,"GitHub Trending Archive, 02 Sep 2024, TypeScript. bluesky-social/feed-generator, adrianhajdin/banking, unkeyed/unkey, withastro/starlight, gitroomhq/postiz-app, bluesky-social/atproto, vercel/nextjs-subscription-payments, formbricks/formbricks https://t.co/m2olMOaCJN",https://github.motakasoft.com/trending/?d=2024-09-02&l=typescript,,,,,,,,,,Github Awesome Search,,,,,
 2024-10-06 12:32:21+00:00,https://x.com/SondreB/status/1842905735295881363,SondreB,Had a great time talking about #Ariton and demonstrating the latest features of the app. You like what you see? You want this? Please consider supporting the development in any way possible: https://t.co/ORdGca0ZND #Web5 #TBD #DID #VC #DWN #decentralized #web,https://youtu.be/rKS77fqolM0,,,,,,,,,,Twitter Web App,,,,,
 2024-09-13 16:01:43+00:00,https://x.com/vidos_id/status/1834623504073044419,vidos_id,"Ready to revolutionize data management?
 
@@ -1165,6 +1170,7 @@ Try it now 👉https://t.co/oIs1OloWtt
 #ssi #Safetyfirst #verifiableCredentials",,,,,,,,,,,Twitter for Android,,,,,
 2024-09-15 04:37:10+00:00,https://x.com/empe_io/status/1835176004697850205,empe_io,"This is a wake-up call! 😱 Breaches like 23andMe's show how vulnerable your personal data is. At Empeiria, we're putting *you* in control with self-sovereign data—no more risking your privacy with third parties. 🔐 Time to protect what’s yours! 💪 
 #DataPrivacy #Blockchain #EVDI",,,,,,,,,,,Twitter for iPhone,,,,,
+2024-10-19 18:36:57+00:00,https://x.com/HaqXpertM/status/1847708532730450418,HaqXpertM,"ME ID creates a unique on-chain identity for users that connects to wallets, crypto accounts, dApps, and more. With ownership and control of their digital identity, users are free from centralized authority. 🌐 #Web3 #SelfSovereignIdentity",,,,,,,,,,,Twitter for iPhone,,,,,
 2024-10-18 20:33:18+00:00,https://x.com/diheagwam01/status/1847375426374815881,diheagwam01,"Stay updated on @ethosx_finance's decentralized identity solutions. Follow for web3 innovation!
 
 @ethosx_finance
@@ -1277,14 +1283,6 @@ Self-Sovereign Identity (SSI) in DevSecOps: Enhancing Security and Privacy in Us
 https://t.co/3GSr6eSd2E 
 
 #DevSecOps #CyberSecurity #DigitalIdentity #Blockchain #SelfSovereignIdentity #Privacy #DataSecurity #CloudSecurity https://t.co/KPDOd6K2NY",https://www.linkedin.com/pulse/self-sovereign-identity-ssi-devsecops-enhancing-security-gupta-qi3qc,,,,,https://pbs.twimg.com/media/GWYM5KLXoAAF_D7.jpg,,,,,Twitter Web App,https://t.co/Z1Rwev4Lf6,,,,
-2024-08-29 15:32:50+00:00,https://x.com/DAOvsQUO/status/1829180414591938581,DAOvsQUO,"'Adopción'
-Magnitud = 10
-Categoría = Tecnología
-Rareza = Rara
-
-#Web3Adoption #DigitalIdentity #BlockchainAdoption #NFTs #DAOAdoption #Arbitrum #Decentralization #SelfSovereignIdentity #CryptoAdoption #Web3Community
-
-https://t.co/iiE0MihC68",https://opensea.io/assets/arbitrum/0x241f618e5fc4019f737af822cd77044d696616b1/90,,,,,,,,,,Twitter Web App,,,,,
 2024-04-08 16:09:30+00:00,https://x.com/DecentralizedID/status/1777368181247816114,DecentralizedID,"🚀 #DIF will be at #InternetIdentityWorkshop next week! 🎉 Meet @kimdhamilton and @Limarikal and let’s talk #DecentralizedIdentity.
 
 👥 Looking to connect? DM us! 
@@ -1377,6 +1375,8 @@ https://t.co/J5DcBQpCnl",https://internetidentityworkshop.com,,,,,,,,,,Twitter f
 
 @idworkshop #internetidentityworkshop @ComputerHistory https://t.co/giiwqXpKHS",,,,,,https://pbs.twimg.com/media/D5SET8PUUAAAtfz.jpg,,,,,Twitter for Android,,,,,
 2019-04-28 16:39:47+00:00,https://x.com/liliane_bara/status/1122540927984205825,liliane_bara,Prioritizing Individual Sovereignty over Interoperability https://t.co/rWOIUsxPlH #internetidentityworkshop,https://stories.jolocom.com/prioritizing-individual-sovereignty-over-interoperability-95ec17a36c9b,,,,,,,,,,Paper.li,,,,,
+2024-10-19 13:10:24+00:00,https://x.com/Odd_Kesson/status/1847626355090845768,Odd_Kesson,"@milesdeutscher $IOTA 2.0 with L1SC, MoveVM integration and hyper strong #RWA Narrative including European Union #EBSI , Digital identities, #TLIP and so on.",,,,,,,,,,,Twitter for iPhone,,,,,
+2024-10-16 20:44:54+00:00,https://x.com/Odd_Kesson/status/1846653568843239748,Odd_Kesson,"🧵 Thread: #IOTA 2.0 will integrate MoveVM – A Game-Changer in Blockchain Technology, and it might happen sooner than you expect? https://t.co/yypeJRbXmG",,,,,,https://pbs.twimg.com/media/GaChohUb0AErXXy.png,,,,,Typefully,,,,,
 2024-10-18 13:30:35+00:00,https://x.com/EngelTeufel4/status/1847269046464442474,EngelTeufel4,"Lesen Sie, wie #IOTA mit neuen Partnerschaften und Beschleunigungsprojekten wichtige Fortschritte bei der Einführung von Technologien gemacht hat, #EBSI PCP abgeschlossen und erweitert hat @TLIP_io
 Integrationen, gestartet @iotalabs_ und mehr! 
 https://t.co/qeX1gBvk5a",https://blog.iota.org/q3-2024-progress-report/,,,,,,,,,,Twitter Web App,,,,,
