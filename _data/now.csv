@@ -125,6 +125,32 @@ Of course, for both (2) and (3), we prove that they are secure according to our 
 2024-10-15 16:39:34+00:00,https://x.com/JesusDiazVico/status/1846229439505748100,JesusDiazVico,"Re: (1). In our model and proof, we note that the combined mode doesn’t generally ensure that all recipients will receive the same message. This is fixable just by using AES-CBC+HMAC, which DIDComm supports off the shelf.",,,,,,,,,,,Twitter Web App,,,,,
 2024-10-15 16:39:34+00:00,https://x.com/JesusDiazVico/status/1846229438490726714,JesusDiazVico,"Also, DIDComm allows combining these modes, providing authenticated sender towards the recipient (but anonymous to third parties), and confidential messages.",,,,,,,,,,,Twitter Web App,,,,,
 2024-10-15 16:39:33+00:00,https://x.com/JesusDiazVico/status/1846229437446344736,JesusDiazVico,"DIDComm offers two main encryption modes: anoncrypt (anonymous sender, confidential message) and authcrypt (authenticated sender, confidential message).",,,,,,,,,,,Twitter Web App,,,,,
+2024-10-15 16:39:33+00:00,https://x.com/JesusDiazVico/status/1846229436431265795,JesusDiazVico,"Our results. We:
+
+(1) Give a composable model of DIDComm’s encryption, and prove the security of its specification. We identify a minor weakness fixable without changing the protocol.
+
+(2) Propose a 2x improvement for one of its modes.
+
+(3) Propose a new privacy enhanced mode.",,,,,,,,,,,Twitter Web App,,,,,
+2024-10-15 16:39:33+00:00,https://x.com/JesusDiazVico/status/1846229435403718850,JesusDiazVico,"However, up to now, DIDComm lacked formal analysis. For cryptographers (and, indirectly, for everybody) this is no good, as DIDComm could pose certain security issues exploitable by attackers.",,,,,,,,,,,Twitter Web App,,,,,
+2024-10-15 16:39:33+00:00,https://x.com/JesusDiazVico/status/1846229434158010506,JesusDiazVico,"What is DIDComm? 
+
+DIDComm is the main communications framework in the Self-Sovereign Identity (SSI) space. Pretty much like TLS for the rest of the world, but building on SSI. 
+
+It is widely used in many production projects already so it is quite big in the domain.",,,,,,,,,,,Twitter Web App,,,,,
+2024-10-15 16:39:32+00:00,https://x.com/JesusDiazVico/status/1846229433117720866,JesusDiazVico,"Special thanks to @dhh1128 and @TelegramSam, who patiently and thoroughly clarified our DIDComm doubts.",,,,,,,,,,,Twitter Web App,,,,,
+2024-10-15 16:39:32+00:00,https://x.com/JesusDiazVico/status/1846229431775613034,JesusDiazVico,"Our DIDComm research will appear in CCS’24! Kudos to co authors Christian and Fabio, who have shared their knowledge with me, and thanks to Atala and @inputoutputhk for supporting this research! https://t.co/7r9C7206Fr",,,,,,https://pbs.twimg.com/media/GZ8esu6b0AQzG60.jpg,,,,,Twitter Web App,,,,,
+2024-10-12 09:24:56+00:00,https://x.com/iFergal/status/1845032896643408135,iFergal,"@ZKDID_ @matiwinnetou Currently in KERI we are using a different but similar idea to DIDComm (we could use DIDComm too in theory). If you have time to read some of Sam's ""SPAC"" paper on his Github, it's called KERI ESSR. (I don't check Twitter often, sorry for delay!)",,,,,,,,,,,Twitter Web App,,,,,
+2024-09-21 13:50:24+00:00,https://x.com/AutouraHQ/status/1837489557958226088,AutouraHQ,Just published (early) website for our DID / DIDComm based food &amp; travel preferences sharing service https://t.co/xkH8d2Vlvc,https://www.autoura.me/,,,,,,,,,,Twitter Web App,,,,,
+2024-09-19 21:47:48+00:00,https://x.com/mwherman2000/status/1836884924118495306,mwherman2000,#Web7 #DIDCOMM #Domains https://t.co/xi0cevRMA1,,,,,,https://pbs.twimg.com/media/GX3s6CfaUAEQ6Ab.jpg,,,,,Twitter Web App,,,,,
+2024-09-19 21:39:28+00:00,https://x.com/alexbainbridge/status/1836882826332963322,alexbainbridge,I dont often share code I write (coz IP ha!) but wrote some JavaScript that handles DIDComm messaging encryption in JavaScript. What I learnt from this is remembering why I moved from mathematical computer science to applied computing all those years ago https://t.co/nxJOH9cANd,https://github.com/Autoura/TBDdemo/blob/main/src/views/DIDCommSend.vue,,,,,,,,,,Twitter Web App,,,,,
+2024-09-05 00:02:01+00:00,https://x.com/jmsunico/status/1831482882684067845,jmsunico,sn-news: #crypto #eidas #identification #security Analysis and Improvements of DIDComm Messaging - What Did Come Out of It?  https://t.co/8nS0PyzWfj,https://eprint.iacr.org/2024/1361,,,,,,,,,,Buffer,,,,,
+2024-08-30 07:00:10+00:00,https://x.com/Lhree/status/1829413788413735260,Lhree,[New] What Did Come Out of It? Analysis and Improvements of DIDComm Messaging (Christian Badertscher and Fabio Banfi and Jesus Diaz)  https://t.co/nsRBaZsO0N,https://ia.cr/2024/1361,,,,,,,,,,IACRePrint Updates,,,,,
+2024-08-29 04:15:39+00:00,https://x.com/AudriusRamoska/status/1829009998543835556,AudriusRamoska,@poldectonteg Such technology exist. DID + DIDComm.,,,,,,,,,,,Twitter for Android,,,,,
+2024-08-25 18:54:23+00:00,https://x.com/GouravP29168350/status/1827781586345156896,GouravP29168350,"Check out my latest article: Exploring the DIDComm Protocol for Secure Communication in Decentralized Systems 
+https://t.co/I3TZmAAsni via @LinkedIn",https://www.linkedin.com/pulse/exploring-didcomm-protocol-secure-communication-systems-patidar-zbuuf,,,,,,,,,,Twitter Web App,,,,,
+2024-08-22 17:36:50+00:00,https://x.com/IndicioID/status/1826674906756706468,IndicioID,"Indicio Deputy CTO @TelegramSam and CMO @helen_garneau join the latest Identity Insights to discuss everything #DIDComm, from what it is to how it provides the backbone for direct, secure, mutually authenticated communication.
+https://t.co/Sf3Bf9u636 https://t.co/xdgSNg6JmC",https://www.youtube.com/watch?v=2qIIUq-Okts,,,,,https://pbs.twimg.com/media/GVmnCZ8bgAEnTey.jpg,,,,,Twitter Web App,,,,,
 2024-11-15 08:15:23+00:00,https://x.com/ankurb/status/1857336580845011223,ankurb,@kais_kat Have you come across KERI (Key Event Receipt Infrastructure)? Based on very similar ideas. https://t.co/MTIujDHqXY,https://keri.one,,,,,,,,,,Twitter for iPhone,,,,,
 2024-11-09 14:49:43+00:00,https://x.com/contenta_xyz/status/1855261493014458455,contenta_xyz,"Think blockchain is the only solution to decentralize identity? Think again,  anon.
 
@@ -250,6 +276,19 @@ https://t.co/5YVgpuSXOx",http://keri.one,,,,,,,,,,Twitter for iPad,,,,,
 https://t.co/BelXI0vAT4",https://hashhub-research.com/articles/2021-02-26-about-vlei,,,,,,,,,,Twitter Web App,,,,,
 2021-01-05 16:57:11+00:00,https://x.com/askcasmir/status/1346501005857402881,askcasmir,Key Event Receipt Infrastructure (KERI) is the first truly fully decentralized identity system. https://t.co/qIAm5OA90S,https://keri.one/,,,,,,,,,,Twitter Web App,,,,,
 2020-12-06 17:13:54+00:00,https://x.com/SamuelMSmith/status/1335633578424561664,SamuelMSmith,Check out https://t.co/2Vjntlxqw5 for resources on the Key Event Receipt Infrastructure. A new open ledger agnostic standard for secure identifiers,http://keri.one,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 18:09:11+00:00,https://x.com/frostyfrog/status/1862197061200093305,frostyfrog,"There's a reason why I don't trust a lot of these ""identity/age verification"" companies, and why I only trust W3C Verifiable Credentials. I'm thinking of writing an article later about the issue 🤔 https://t.co/nV7LhwwGpz",,,,,,https://pbs.twimg.com/media/GdfaBJcWMAAJBNR.jpg,,,,,Twitter Web App,,,,,
+2024-11-28 04:19:08+00:00,https://x.com/ZekkVRC/status/1861988171052937403,ZekkVRC,"I am begging VRChat to be transparent about:
+1. If they have set up a data retention period (see link below).
+2. How long that period is.
+
+Persona stores our data indefinitely if this is not configured as VRChat would likely be the ""controller"" based on the article below.",,,,,,,,,,,Twitter Web App,https://t.co/Tw9UJbp7rM,https://t.co/4i78j2dgm8,https://t.co/vnzi0awQkK,,
+2024-11-27 12:15:46+00:00,https://x.com/bigbagz30k/status/1861745731813462425,bigbagz30k,"@cheqd_io follows the #EBSI trust chaining models via its (future) W3C spec #DLR DID Linked Resources module.
+
+While EBSI is focused on High Level authority VCs.
+
+Cheqd focuses on the substantial/low level Verifiable Credentials.
+
+$cheq https://t.co/TiTh5dNiX6",,,,,,https://pbs.twimg.com/media/GdY_4DIaYAA87xn.jpg,,,,,Twitter for Android,https://t.co/mgGE7I0wVL,https://pbs.twimg.com/media/GdY_4yiasAAKkfp.jpg,https://pbs.twimg.com/media/GdY_4-iaoAAjkwa.jpg,,
 2024-11-23 11:06:53+00:00,https://x.com/DC4EU_project/status/1860278843832979878,DC4EU_project,"At #ePIC2024, @larinyo presented how eIDAS 2.0 &amp; #DigitalIdentityWallets (powered by W3C standards) will transform education. 🌍
 
 Learner-owned credentials = mobility + instant verification + privacy by design. 💡
@@ -282,11 +321,6 @@ Oh by the way, did you also know that the state of California DMV app is doing d
 
 Source:
 https://t.co/vWh09rkUe0  (page 8 of this doc)",https://www.dia.govt.nz/diawebsite.nsf/Files/Trust-Framework/$file/DISTF-Rules-2024.pdf,,,,,,,,,,Twitter Web App,,,,,
-2024-11-20 11:52:56+00:00,https://x.com/ankurb/status/1859203269056242050,ankurb,"There's an interesting debate @w3c on the topic of a ""Digital Credentials API"" being added as native browser-level support.
-
-On the face of it, you might think I'd support adding such an API. But I *do* think a lot of the objections here are valid...
-
-https://t.co/SXXKEg7epT",https://www.w3.org/2024/10/team-report-fedid-wg-fo.html,,,,,,,,,,Twitter Web App,,,,,
 2024-11-19 22:35:00+00:00,https://x.com/tang_talks/status/1859002462935331106,tang_talks,"Zoë Hitzig and Steven Adler from @OpenAI presented on ""Personhood Credentials: A Privacy-Preserving Credential to Demonstrate Who's Real Online, Amid Artificial Intelligence"" at W3C CCG.  It’s getting harder to tell if someone on the Internet is real or not, and personhood credentials #PHC leans into two things that AI cannot do to solve this problem:  (1) physical, real-world components, and (2) cryptography.  You can read the paper here:  https://t.co/N89pTkdcfl  And you can watch the recording of the presentation and discussion here (start at 9 min 15 sec mark): https://t.co/o3DCBao2XF",https://arxiv.org/pdf/2408.07892,https://meet.w3c-ccg.org/archives/w3c-ccg-weekly-2024-11-05.mp4,,,,https://pbs.twimg.com/media/Gcups2BbcAQdDcG.jpg,https://pbs.twimg.com/media/Gcups2CbcAAhEvR.jpg,https://pbs.twimg.com/media/Gcups2BbcAEC8GH.jpg,,,Twitter Web Client,,,,,
 2024-11-18 04:32:27+00:00,https://x.com/Tweetddale/status/1858367642337456496,Tweetddale,"""Identity Assertions"" are W3C Verifiable Credentials (#VCs) that are signed by Decentralized Identifiers (#DIDs) and issued by an ""Identity Claims Aggregator"". 
 
@@ -456,6 +490,79 @@ Privado ID addresses this challenge by following W3C standards to ensure global 
 - Verifiable Credentials (VCs): Enable the private storage and content sharing of attributes about an identity (e.g. your government might issue you a verifiable credential that proves your date of birth). These credentials are stored in a standard format so that any verifier can read and understand it.
 
 These two standards—DIDs and VCs—are key to how Privado ID operates to ensure interoperability across different platforms and apps",,,,,,,,,,,Twitter Web App,https://t.co/XdqMcQuxJt,,,,
+2024-11-28 18:43:31+00:00,https://x.com/spacegho_st/status/1862205698249302200,spacegho_st,bluesky is radical free speech at the atproto level and comically bad censorship at the app level,,,,,,,,,,,Twitter for iPhone,,,,,
+2024-11-28 18:09:35+00:00,https://x.com/Yn5Xi9PQSFcY7UU/status/1862197159439044857,Yn5Xi9PQSFcY7UU,"@VitorLeoes Mastodon + ""fediverse"" or ATProto that is underpinning BlueSky are probably the best fits.
+
+Also, capital literally owns the Internet, something to keep in mind.",,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 17:57:34+00:00,https://x.com/peter_szilagyi/status/1862194134699712563,peter_szilagyi,"All in all I'd like to highlight that the Bluesky team is absolutely phenomenal, I know a few of them personally and have only the utmost respect to them.
+
+That said, I think there's a ""conflict of interest"" at play here between atproto-the-protocol and bluesky-the-company.
+
+N/N",,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 17:57:33+00:00,https://x.com/peter_szilagyi/status/1862194131457519691,peter_szilagyi,"The catch 22 here is: Bluesky will say anyone can implement atproto and compete (so ban == no biggie), but even Bluesky is running on VC money to be able to afford the upkeep costs.
+
+At best, you can expect large tech players to enter, but doubtful that small groups can.
+
+8/N",,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 17:57:33+00:00,https://x.com/peter_szilagyi/status/1862194129729417639,peter_szilagyi,"Problem 2: atproto supposed to be decentralized, without any central authority having a say over your content.
+
+However, Bluesky being the single implementation of atproto, getting evicted from their relays and UIs essentially means a 100% complete deplatforming.
+
+7/N",,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 17:57:32+00:00,https://x.com/peter_szilagyi/status/1862194127992934770,peter_szilagyi,"Problem 1: the atproto is supposed to be a public protocol, yet its users will recourse to legal actions against someone using it *as intended by the protocol*.
+
+The fault here IMO lies at Bluesky for not really being clear what they are ""selling"". Their users don't know!
+
+6/N",,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 17:57:32+00:00,https://x.com/peter_szilagyi/status/1862194126290047354,peter_szilagyi,"Now, the latter person was obviously trolling. That was the ""reason"" for the ban. But this raises a very interesting predicament:
+
+Is atproto really a decentralized public good protocol, or is it a syntactic sugarcoating for selling the Bluesky service?
+
+5/N",,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 17:57:30+00:00,https://x.com/peter_szilagyi/status/1862194119151390809,peter_szilagyi,"There's a very interesting fiasco playing out at Bluesky currently.
+
+For those not following, Bluesky is a social network based on a theoretically decentralized identity system (atproto). Practically, there's only 1 implementation and 1 app to interface it: Bluesky.
+
+1/N 🧵",,,,,,,,,,,Twitter Web App,,,,,
+2024-11-28 15:56:14+00:00,https://x.com/ParkFansNetwork/status/1862163600481165543,ParkFansNetwork,"@remixedcat @steve_exotic Bluesky's moderation is not a requirement of the ATProto platform—it's expressly separate in fact. You are free to setup your own ATProto instance and app layer and have it operate in harmony with ATProto users on Bluesky through the open source, federated platform ATProto.",,,,,,,,,,,Twitter for Android,,,,,
+2024-11-28 15:44:45+00:00,https://x.com/ParkFansNetwork/status/1862160712975396876,ParkFansNetwork,"@remixedcat Bluesky IS federated. Go spin up your own instance.
+
+https://t.co/3bFAwsPEm7
+
+https://t.co/rb2Uhrdh6y
+
+Plus, ATProto has been bridged to ActivityPub and, hence, federated with Mastodon et al already as well. When Threads gets full ActivityPub support, it will join the pool too.",https://techcrunch.com/2024/02/22/bluesky-opens-up-federation-letting-anyone-run-their-own-server/,https://atproto.com/guides/self-hosting,,,,,,,,,Twitter for Android,,,,,
+2024-11-28 04:03:36+00:00,https://x.com/spacegho_st/status/1861984261999595794,spacegho_st,"my prediction is a proliferation of clients like browsers with vendor prefixed half-shared extensions
+
+we will see the death of bluesky and the rebirth of atproto as a sort of 'from the ashes of certain disaster' type situation if any apps manage to attract userbases",,,,,,,,,,,Twitter for iPhone,,,,,
+2024-11-28 03:56:21+00:00,https://x.com/spacegho_st/status/1861982437771006297,spacegho_st,"the whole design precipitates on being open to avoid network forks and locking bluesky itself out of the atproto ecosystem (it doesnt exist yet)
+
+if they do not hire pedigree engineers they will lose ground and influence to those that do and private investment",,,,,,,,,,,Twitter for iPhone,,,,,
+2024-11-28 01:10:28+00:00,https://x.com/ParkFansNetwork/status/1861940691485462994,ParkFansNetwork,"@sunmsystems Bluesky is a Public Benefit Corporation running on an open source, federated, platform/protocol. If Bluesky ever decided to be evil, anyone can move their account to a new ATProto host while keeping their content and following with zero issue or penalty.",,,,,,,,,,,Twitter for Android,,,,,
+2024-11-28 00:51:00+00:00,https://x.com/kalocide/status/1861935789950607857,kalocide,@kalomaze i love atproto/bluesky but it is truly fucking amazing how they managed to cultivate a userbase that absolutely detests federation. 95% of the new users should go back to tumblr,,,,,,,,,,,Twitter Web App,,,,,
+2024-11-27 20:18:31+00:00,https://x.com/fujowebdev/status/1861867219237617923,fujowebdev,"Thurs...SATURDAY stream: AtProto Hacking #4
+
+Due to The American Turkey Holiday (🦃) we won't be streaming tomorrow. Instead, see you on SATURDAY same time (3PM Pacific)!
+
+In this stream, we'll continue our work labeling BlueSky posts by type of fanwork by... ⬇️ https://t.co/GvqnuqrN33",,,,,,https://pbs.twimg.com/media/Gdat86XaYAArY_a.png,https://pbs.twimg.com/media/GdauC_bacAACGZO.png,,,,Twitter Web App,,,,,
+2024-11-27 04:25:35+00:00,https://x.com/padulkemid/status/1861627407423435073,padulkemid,"@najibvanjody atproto (bluesky/opensource), gemini (http drop in replacement)",,,,,,,,,,,Twitter for iPhone,,,,,
+2024-11-27 04:16:48+00:00,https://x.com/bmlto/status/1861625195083026631,bmlto,"#WhiteWind is a #blogging platform using the decentralized AT Protocol of #Bluesky. Blogs are stored in personal data store (PDS), ensuring data ownership and portability and can be shared across #ATproto based services including reactions visible. https://t.co/aaYIVY1Upy",http://whtwnd.com/about,,,,,,,,,,Twitter for Android,,,,,
+2024-11-27 01:19:06+00:00,https://x.com/johnspurlock/status/1861580475183096101,johnspurlock,"‘I kind of don't want folks to trust Bluesky, or believe in atproto, just because of the team. Or because of our track record to date.
+
+Teams and individuals change over time, and we mean it seriously when we say ""the company is a future adversary""’
+
+https://t.co/Fw4SqENpQa",https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t,,,,,,,,,,Twitter Web App,,,,,
+2024-11-26 11:23:02+00:00,https://x.com/axiomsofxyz/status/1861370070515007686,axiomsofxyz,"Convert between #Bluesky URLs &amp; permanent #ATProto identifiers (DIDs/AT-URIs) with this new web app and never lose track of profiles when @ handles change!
+
+🔗 Try it: https://t.co/GnT1ZymMmR https://t.co/JB4J0oH70L",https://web-apps.thecoatlessprofessor.com/bluesky/profile-or-post-to-did-at-uri.html,,,,,https://pbs.twimg.com/media/GdTpQH2XcAAa8_X.jpg,https://pbs.twimg.com/media/GdTp2PUWwAAY8mX.jpg,https://pbs.twimg.com/media/GdTp5lCXwAAR-7k.jpg,https://pbs.twimg.com/media/GdTqEWlXgAA8rpy.jpg,,Twitter Web App,,,,,
+2024-11-25 16:19:43+00:00,https://x.com/CristoDCGomez/status/1861082348348940455,CristoDCGomez,"Otro recordatorio: No basen sus proyectos en una unica red (bluesky/mastodon).
+
+En tal caso, basen sus proyectos en nutrirse de los protocolos (atProto y Activitypub).
+
+A muchos no les suena... Pero Twitter empezó exactamente igual que estas redes... Y miren el final.",,,,,,,,,,,Buffer,,,,,
+2024-11-25 12:04:28+00:00,https://x.com/robinaerts0/status/1861018110624518169,robinaerts0,"Checkout @bluesky, a fully open source Twitter like social media network based on the open source Atproto, so you can even self host all of your data!
+
+https://t.co/lGZq8U1W48",https://bsky.app/profile/robinaerts.be,,,,,,,,,,Twitter for Android,,,,,
 2024-11-24 07:49:02+00:00,https://x.com/SunShine_wnkhs/status/1860591443208994934,SunShine_wnkhs,"ブログの現在の最新投稿はこれっ！
 ━━ #wnkhs ━━━━━━━━━━
 
@@ -503,52 +610,9 @@ Here's what you can find inside of edition 143:
 2. You can write your own feeds because all the data is public. 
 3. https://t.co/63R4mdvI6a is essentially an MVP for #atproto ! 👨‍🚀🚀",http://bsky.app,,,,,,,,,,Twitter for Android,https://t.co/DP1fQbC6u1,,,,
 2024-11-20 19:05:52+00:00,https://x.com/fridgebuzz_art/status/1859312219781202296,fridgebuzz_art,"@jeremyphoward Because of the non-corporate capture aspect of Bluesky/ATproto? Threads is just being at the whim of Zuck instead of Elon. Mastodon is problematic for too many reasons to mention, &amp; Farcaster is cool, but not too friendly for non-crypto people. Bsky offers a safe exit.",,,,,,,,,,,Twitter for iPhone,,,,,
-2024-11-20 12:27:46+00:00,https://x.com/feynmanrocks/status/1859212033905824206,feynmanrocks,"@samtayyari @levelsio bluesky was literally created inside of twitter and spun out into a new company. (until they sold twtr, original goal was to port twitter to also run on ATPROTO like bsky does)",,,,,,,,,,,Twitter Web App,,,,,
 2024-11-20 07:52:55+00:00,https://x.com/daisuke/status/1859142867962523995,daisuke,Call for Developer Projects · bluesky-social/atproto · Discussion #3049 https://t.co/8eEAnvpain,https://github.com/bluesky-social/atproto/discussions/3049,,,,,,,,,,Twitter Web App,,,,,
 2024-11-20 03:50:41+00:00,https://x.com/bmlto/status/1859081909612990591,bmlto,"it's built on an open source ecosystem that is shared with the world. In the same way that no one company ""owns"" email, Bluesky has created a set of common standards (ATProto) that others can use to create their own platforms.""",,,,,,,,,,,Twitter for Android,,,,,
-2024-11-20 01:31:58+00:00,https://x.com/UnforcedAaron/status/1859046998499807443,UnforcedAaron,Threads uses ActivityPub. Bluesky uses ATProto. Will X use one of these? Could it use both?,,,,,,,,,,,Twitter Web App,,,,,
-2024-11-19 00:20:43+00:00,https://x.com/hkitago/status/1858666681843019793,hkitago,"""ActivityPubは、HTMLやCSSなどの重要なインターネット標準を開発するWorld Wide Web Consortium（W3C）という標準化団体によって開発されました。一方、ATProtoはBluesky Social, PBCという1つの会社によって開発されています""
-https://t.co/2Y1oxOpup7",https://canolcer.com/post/thoughts-on-bluesky/,,,,,,,,,,Twitter Web App,,,,,
-2024-11-18 22:55:43+00:00,https://x.com/saltedlolly/status/1858645287364936005,saltedlolly,"@damusapp I’m a fan of Nostr, but this is being disingenuous. There are trolls going on Bluesky right now being intentionally toxic to get blocked/banned so they come back here claiming there is no free speech. Nostr and ATproto are both working on the same goal with different approaches.",,,,,,,,,,,Twitter Web App,,,,,
-2024-11-18 22:37:19+00:00,https://x.com/Krosskeyz/status/1858640660397518918,Krosskeyz,"@UnsortedPhotos @VisualsbySauter Technically it's the AT Protocol that is open source, bluesky is built on top of it, so yes technically you could host your own ATProto setup and run your own bluesky.",,,,,,,,,,,Twitter Web App,,,,,
-2024-11-18 17:22:06+00:00,https://x.com/mikestaub/status/1858561330766331983,mikestaub,"People who think it's Twitter vs Bluesky and not Twitter vs ATproto are the same people who think Bitcoin and ""crypto"" are the same. This is not about politics, it's about self-sovereignty via open protocols. https://t.co/4jnFO6C3z4",https://github.com/bluesky-social/atproto/blob/main/packages/did/src/did.ts#L210,,,,,,,,,,Twitter Web App,,,,,
-2024-11-18 14:50:51+00:00,https://x.com/itsLIRAN/status/1858523266916155687,itsLIRAN,"@cguida6 But their model is ATProto is the base, and BlueSky is like an aggregator.
-
-So technically speaking, someone can build an ""OpenSky"" ATProto aggregator that doesn't block or censor anyone's content.",,,,,,,,,,,Twitter for Android,,,,,
-2024-11-18 14:11:14+00:00,https://x.com/rmathew4tw/status/1858513297592746021,rmathew4tw,"🦋:
-
-“Maybe BlueSky Has ‘Won’”, Gavin Anderegg (https://t.co/LPhpR4bZXC).
-
-On HN: https://t.co/nP4beJfsAQ
-
-On Lobsters: https://t.co/zRS0fIY81d
-
-#BlueSky #Twitter #SocialMedia #MicroBlogging #Fediverse #ATProto #SocialNetwork #Xodus",https://anderegg.ca/2024/11/15/maybe-bluesky-has-won,https://news.ycombinator.com/item?id=42150278,https://lobste.rs/s/obifny/maybe_bluesky_has_won,,,,,,,,Twitter for iPhone,https://t.co/h4dMnkFyfL,https://t.co/IwVrUz5dWQ).,,,
-2024-11-18 05:25:42+00:00,https://x.com/tnsipla/status/1858381042773577983,tnsipla,Bluesky is seeing a large influx- one that it can cope with since it's the only ATProto service- but smaller ATProto providers would probably get choked out by all the new traffic- same for it Threads were to implement ActivityPub,,,,,,,,,,,Twitter for iPad,,,,,
-2024-11-17 16:05:24+00:00,https://x.com/MommyASMR/status/1858179643079025093,MommyASMR,"@pk13510 Good thing BlueSky isn't a social platform but a client to browse various ATProto sites. BlueSky client is more like a search engine and it gives you results from a cached version of each individual site's data.
-
-Also moderation is amazing.
-
-BlueSky is just one client btw.",,,,,,,,,,,Twitter for Android,,,,,
-2024-11-17 10:22:20+00:00,https://x.com/Krosskeyz/status/1858093306300752379,Krosskeyz,@geomannie531 I personally see Bluesky as a starting point that will lead to greater federation to other sites on the ATProto. The Fediverse is great but it's too much work to connect the nodes for your average user and it's bad product. Also check out this https://t.co/hwMIbj9LOj,https://fed.brid.gy/,,,,,,,,,,Twitter Web App,,,,,
-2024-11-17 08:28:30+00:00,https://x.com/Krosskeyz/status/1858064659506442374,Krosskeyz,"@CtrlAltDel_USA @CaliLogicalMind @KenRoth @elonmusk The idea being that over time other sites could set up on ATProto with different rules and community and be both independent and on the same network as bluesky. Hell, you could build magasky if you wanted.",,,,,,,,,,,Twitter Web App,https://t.co/tAYFuPZlyA,,,,
-2024-11-17 08:09:53+00:00,https://x.com/bloodbatmcgrath/status/1858059971855818793,bloodbatmcgrath,"The AT Protocol (Authenticated Transfer Protocol, pronounced ""at-protocol"" and commonly shortened to ATProto) is a protocol and open standard for decentralized social networking services. It is a development by Bluesky Social PBC, a public benefit corporation originally created as an independent research group within Twitter to investigate the possibility of decentralizing the service.
-
-The AT Protocol aims to address perceived issues with other decentralized protocols, such as user experience, platform interoperability, discoverability, network scalability, and portability of user data and social graphs. It employs a modular microservice architecture and a federated, server-agnostic user identity to enable seamless movement between protocol services, with the goal of providing an integrated online experience. Platforms can access and serve any user content within the network by getting content formatted as predefined data schemas from federated network-wide data streams.
-
-https://t.co/owsUkzL7If",https://en.wikipedia.org/wiki/AT_Protocol,,,,,,,,,,Twitter Web App,https://t.co/Iv2oScWro6,https://pbs.twimg.com/media/GcknrrGW8AA-tjM.jpg,,,
-2024-11-17 04:28:25+00:00,https://x.com/matildepark_/status/1858004239798206764,matildepark_,"@parityprime bluesky is architected very differently. atproto is a bit more like (self-)hosted data aggregated, indexed, presented by app layers. it's a more atomised flow than the inbox / outbox model. it doesn't follow ap very well.",,,,,,,,,,,Twitter for Android,,,,,
-2024-11-16 23:32:31+00:00,https://x.com/pwang/status/1857929773927780387,pwang,"@nickgweezy @astralmatrix I’m uh.. the angel investor in the protocol and whatnot that became Bluesky. So I might be so bold as to call myself the “godfather of ATproto”? 
-
-But nonetheless a very early user (#6) 😉",,,,,,,,,,,Twitter for iPhone,,,,,
-2024-11-16 22:56:11+00:00,https://x.com/skyfall_ggs/status/1857920631443996843,skyfall_ggs,"@404Alta @airkatakana Bluesky uses ATProto, fediverse uses ActivityPub",,,,,,,,,,,Twitter Web App,,,,,
-2024-11-16 11:34:58+00:00,https://x.com/PlatinumCatgirl/status/1857749196054434132,PlatinumCatgirl,"@Joeofthemasks @jean_hayashi The second part is that Bluesky's underlying protocol, ATProto, lets other parties build apps that interact with Bluesky services. You need to legally have a mechanism to let others be able to perform those interactions.",,,,,,,,,,,Twitter for iPhone,,,,,
-2024-11-16 06:04:52+00:00,https://x.com/farzad_yz/status/1857666125208711571,farzad_yz,"So mastodon uses ActivityPub and Bluesky uses Atproto. Both decentralized but incompatible so no native way of connecting networks unless a specialized server is present as a bridge?
-Why no standard protocol or at least compatible ones designed?",,,,,,,,,,,Twitter for iPhone,,,,,
-2024-11-16 04:56:54+00:00,https://x.com/suzune_wiz/status/1857649020187165103,suzune_wiz,BlueskyのOAuth対応は先日ロールアウトしたのかな? まだTOTPによる2FAも無いし､企業とかがシリアスに使うには水準に達してない所もある｡ そもそもがatproto開発実証のためのシステムだから､そこは無理を言うところではないのだが,,,,,,,,,,,Twitter Web App,,,,,
-2024-11-16 03:29:17+00:00,https://x.com/Krosskeyz/status/1857626972651770097,Krosskeyz,"@vampirepoem @verynormalman To each their own, I can respect it. I personally hope in the long term bluesky doesn't make it because it's replaced with a cluster of federated ATProto sites that all offer something different but live on the same network.",,,,,,,,,,,Twitter Web App,,,,,
-2024-11-16 00:01:19+00:00,https://x.com/Krosskeyz/status/1857574633987346850,Krosskeyz,"@ginadibee @RosaryMum AND the ability to take your profile, pack it up into a case, fuck off to another site running ATProto and set up there quickly and easily. Bluesky is just the first, I predict dozens of ATProto sites all with specific features and focuses. And their own TOS' too.",,,,,,,,,,,Twitter Web App,,,,,
-2024-11-16 00:00:20+00:00,https://x.com/Krosskeyz/status/1857574385378336928,Krosskeyz,"@ginadibee @RosaryMum 1/2 Yes and no. The Terms and Services of Bluesky are suboptimal but bluesky is not the beginning and the end. It runs on the AT Protocol, built into ATProto is both the ability to set up other sites that run on ATProto and have the communicate on the same network seamlessly",,,,,,,,,,,Twitter Web App,https://t.co/QPkwzbAkpq,,,,
+2024-11-20 01:31:58+00:00,https://x.com/UnforcedAG/status/1859046998499807443,UnforcedAG,Threads uses ActivityPub. Bluesky uses ATProto. Will X use one of these? Could it use both?,,,,,,,,,,,Twitter Web App,,,,,
 2024-10-06 12:32:21+00:00,https://x.com/SondreB/status/1842905735295881363,SondreB,Had a great time talking about #Ariton and demonstrating the latest features of the app. You like what you see? You want this? Please consider supporting the development in any way possible: https://t.co/ORdGca0ZND #Web5 #TBD #DID #VC #DWN #decentralized #web,https://youtu.be/rKS77fqolM0,,,,,,,,,,Twitter Web App,,,,,
 2024-09-13 16:01:43+00:00,https://x.com/vidos_id/status/1834623504073044419,vidos_id,"Ready to revolutionize data management?
 
@@ -703,7 +767,7 @@ The ToIP Foundation will use digital identity models that leverage interoperable
 
 🔗 https://t.co/G8pJszeCCN
 
-#opensource #decentralization https://t.co/Vd8JsKXMRE",https://hubs.la/Q02PXlJH0,,,,,https://pbs.twimg.com/media/GXlJPAdWMAAJSHC.jpg,,,,,HubSpot,,,,,
+#opensource #decentralization https://t.co/Vd8JsKXMRE",https://hubs.la/Q02PXlJH0,,,,,https://pbs.twimg.com/media/GXlJPAdWMAAJSHC.jpg,,,,,HubSpot,https://t.co/gWVbNT30nU,https://t.co/eeqfmAaA3w,https://pbs.twimg.com/media/GXmMiSIbAAA9zks.png,,
 2024-09-16 10:07:26+00:00,https://x.com/YasumasaKuwada/status/1835621509701796277,YasumasaKuwada,Trust over IP(ToIP)とかネーミングセンスが如何にもそれっぽくて良い。,,,,,,,,,,,Twitter for iPad,,,,,
 2024-08-04 06:25:18+00:00,https://x.com/tang_talks/status/1819982929910743472,tang_talks,"I’m excited to share that leaders from the Decentralized Identity Foundation (DIF), Trust Over IP (ToIP) Foundation, W3C Credentials Community Group (CCG), and W3C Decentralized Identifier Working Group (DID WG) have announced a collaborative initiative to advance the standardization of Decentralized Identifiers (DIDs) methods! @kimdhamilton,  Judith Fleenor, @decentralgabe, Dan Burnett, @manusporny, Stephen Curran, Andrew Whitehead, @ankurb, Kerri Lemonie, Markus Sabadello, Kim Linson, Mike Hab
 
@@ -861,7 +925,7 @@ A #Web is a network of computers, including conventional and novel ones.
 
 A #PC2 or #DWN (Decentralized Web Node, eg, #Elastos SuperNode) miner may host multiple blockchain nodes.",,,,,,,,,,,Twitter for iPhone,,,,,
 2023-06-15 20:01:02+00:00,https://x.com/worldcoin/status/1669434861969350656,worldcoin,"As promised 🫶
-https://t.co/B4w8VY4JIe",https://worldcoin.org/blog/worldcoin/key-takeaways-worldcoin-seoul-sam-altman-alex-blania,,,,,,,,,,Twitter Web App,,,,,
+https://t.co/B4w8VY4JIe",https://worldcoin.org/blog/worldcoin/key-takeaways-worldcoin-seoul-sam-altman-alex-blania,,,,,,,,,,Twitter Web App,https://t.co/5k8RH4orkL,,,,
 2023-05-24 08:57:21+00:00,https://x.com/newkido22332783/status/1661295309572513796,newkido22332783,@pippellia what's the incentive to run a Decentralized Web Node (DWN)?,,,,,,,,,,,Twitter Web App,,,,,
 2023-05-23 15:33:43+00:00,https://x.com/pippellia/status/1661032667389853696,pippellia,"The proposed solution consists of 3 pieces:
 
@@ -1032,6 +1096,44 @@ more at https://t.co/XjWWbfncp9",http://docs.Hypersign.id,,,,,,,,,,Twitter for i
 2020-05-06 19:07:23+00:00,https://x.com/RealGophersShip/status/1258111134483259392,RealGophersShip,trustbloc/edv (0.1.30): Encrypted data vault implementation in #Golang https://t.co/wwSFEHirx4,https://mdy.io/gh/trustbloc/edv,,,,,,,,,,MelodyBot,,,,,
 2020-05-06 19:01:19+00:00,https://x.com/RealGophersShip/status/1258109606531870720,RealGophersShip,trustbloc/edv (0.0.1): Encrypted data vault implementation in #Golang https://t.co/wwSFEHirx4,https://mdy.io/gh/trustbloc/edv,,,,,,,,,,MelodyBot,,,,,
 2020-05-06 18:16:02+00:00,https://x.com/RealGophersShip/status/1258098211606192130,RealGophersShip,trustbloc/edv (0.1.3): Encrypted data vault implementation in #Golang https://t.co/wwSFEHirx4,https://mdy.io/gh/trustbloc/edv,,,,,,,,,,MelodyBot,,,,,
+2024-11-28 11:17:01+00:00,https://x.com/EVERYCRED/status/1862093334421897608,EVERYCRED,"TDR challenges? Simplified with @EVERYCRED.
+
+Our #verifiablecredentials bring trust and efficiency to urban development. Explore the future of city planning with us. https://t.co/DpdGJiSPEq",,,,,,https://pbs.twimg.com/media/Gdd7cAKXgAAq013.jpg,,,,,Twitter Web App,https://t.co/Ee5GjO8smc,https://t.co/A7o70l7brM,https://pbs.twimg.com/media/Gdd7iqtWoAA73Kf.jpg,https://pbs.twimg.com/media/Gdd6mIWXYAAJ57b.jpg,https://pbs.twimg.com/media/Gdd6mIYXwAAFRSm.jpg
+2024-11-27 12:23:33+00:00,https://x.com/EVERYCRED/status/1861747688640782688,EVERYCRED,"Trust matters. @EVERYCRED 's verifiable credentials transform professional license verification with security and ease.
+
+🚀 Start here: https://t.co/s3yPBqGtr6
+
+#VerifiableCredentials #DigitalIdentity #EveryCRED https://t.co/lNVnv6VL9r",https://everycred.com/contact-us,,,,,https://pbs.twimg.com/media/GdY_QbOXUAAdUsl.jpg,,,,,Twitter Web App,,,,,
+2024-11-26 21:19:34+00:00,https://x.com/BiometricUpdate/status/1861520194402717774,BiometricUpdate,"Governments can preserve digital identity choice by avoiding common myths: Gartner
+
+#decentralizedID #digitalID #digitalidentity @Gartner_inc #regulation #verifiablecredentials
+
+https://t.co/l6fXPpB8mj",https://www.biometricupdate.com/202411/governments-can-preserve-digital-identity-choice-by-avoiding-common-myths-gartner,,,,,,,,,,Twitter Web App,,,,,
+2024-11-26 17:21:49+00:00,https://x.com/myLaminin/status/1861460362547134841,myLaminin,A very interesting conversation with leaders at the National Institute of Standards and Technology @NIST about the application of the #myLaminin Verifiable Credential service to support metrology calibration credentials! #verifiablecredentials #Blockchain  https://t.co/GSqD74ZDla,https://www.mylaminin.net/verifiable-credentials,,,,,,,,,,Twitter Web App,,,,,
+2024-11-26 12:45:42+00:00,https://x.com/EVERYCRED/status/1861390877911822756,EVERYCRED,"Ready to transform your IDV systems?
+
+🔗 Learn how: https://t.co/s3yPBqGtr6
+
+#DigitalIdentity #IdentityVerification #VerifiableCredentials #EveryCRED #Innovation https://t.co/haUqd3Y8rk",https://everycred.com/contact-us,,,,,https://pbs.twimg.com/media/GdT8t-gXMAA6Vui.jpg,,,,,Twitter Web App,,,,,
+2024-11-26 12:45:40+00:00,https://x.com/EVERYCRED/status/1861390867577110753,EVERYCRED,"@EVERYCRED is redefining identity verification with Verifiable Credentials. Say goodbye to silos and hello to a streamlined process.
+
+#DigitalIdentity #IdentityVerification #VerifiableCredentials #EveryCRED #Innovation https://t.co/cVUdG1scTg",,,,,,https://pbs.twimg.com/media/GdT8yiaWcAAWj9M.jpg,,,,,Twitter Web App,https://t.co/o0eoN235Xm,https://pbs.twimg.com/media/GdT8-l_W4AE2Bni.jpg,https://pbs.twimg.com/media/GdT8d_kWkAA8wtH.jpg,https://pbs.twimg.com/media/GdT8fMJWMAA3SlP.jpg,https://pbs.twimg.com/media/GdT8gC2XYAA5Awh.jpg
+2024-11-26 03:34:24+00:00,https://x.com/Accredify_io/status/1861252136715329816,Accredify_io,"Last week, we covered Data-sharing Challenges, the first sign your org might need a #digitaltrust solution.
+
+Today: Fragmented Digital Ecosystems—where verifying ""alien data"" creates gaps in trust. This is where digital trust shines.
+
+Swipe to learn more. 
+
+#verifiablecredentials https://t.co/1dWwS2ABMD",,,,,,https://pbs.twimg.com/media/GdR-57paoAIzu5d.jpg,https://pbs.twimg.com/media/GdR-57raoAIgCrv.jpg,https://pbs.twimg.com/media/GdR-57qaoAM-PBP.jpg,https://pbs.twimg.com/media/GdR-57raMAA_7eG.jpg,,Twitter Web App,,,,,
+2024-11-25 19:07:51+00:00,https://x.com/IndicioID/status/1861124660529897861,IndicioID,"In the latest white paper from Indicio, VP of Communications and Governance @Butterworthy  explains how #VerifiableCredentials can offer a more optimized, personalized #travel experience from booking, to boarding, to beyond.
+
+Read the full document here.
+https://t.co/eSIQTvZP0z",https://indicio.tech/library/ai-chat-decentralized-identity-and-digital-travel/,,,,,,,,,,Twitter Web App,,,,,
+2024-11-25 12:00:40+00:00,https://x.com/vidos_id/status/1861017155673919604,vidos_id,"💬 What role do you see Verifiable Credentials playing in the future of education and workforce readiness?
+
+Read more here: https://t.co/MEu23LCQK1
+
+#VerifiableCredentials #DigitalIdentity #EducationInnovation #Blockchain",http://vidos.id/blog/how-verifiable-credentials-are-shaping-the-future-of-education,,,,,,,,,,Typefully,,,,,
 2024-11-24 19:59:23+00:00,https://x.com/Aleeciahh/status/1860775239799423185,Aleeciahh,"Verifiable Credentials are game-changers! They enable users to prove aspects of their identity without revealing unnecessary personal information, enhancing privacy and security. #VerifiableCredentials #DataPrivacy
 $GNET",,,,,,,,,,,Twitter for iPhone,,,,,
 2024-11-22 12:29:20+00:00,https://x.com/EVERYCRED/status/1859937205038543149,EVERYCRED,"Supply chain visibility starts with trust. Discover how @EVERYCRED's Verifiable Credentials Solutions can transform your operations today!
@@ -1046,11 +1148,6 @@ As for added value there are many services coming upn using the simple interface
 - Verified Web and content sharing
 - Verified and decentralized self-service copyrighting of content using @GoPlausible for #SSI
 - Much more,  TBA",http://ThisDID.com,http://allo.info,http://ThisDID.com,http://ThisDID.com,,https://pbs.twimg.com/media/Gc6uEGdXwAAoq2f.jpg,https://pbs.twimg.com/media/Gc6uEGbW0AAQMCQ.jpg,,,,Twitter Web App,,,,,
-2024-11-20 13:20:25+00:00,https://x.com/EVERYCRED/status/1859225286467870898,EVERYCRED,"Verify academic credentials effortlessly with @EVERYCRED. 🚀 Secure, efficient, and built for trust.
-
-🔗 Connect Us: https://t.co/s3yPBqGtr6
-
-#AcademicCredentials #VerifiableCredentials #EveryCRED #DecentralizedIdentity #EdTech #DigitalTransformation https://t.co/Zqfajqx4Je",https://everycred.com/contact-us,,,,,https://pbs.twimg.com/media/Gc1LPYWXoAABo21.jpg,,,,,Twitter Web App,,,,,
 2024-11-20 04:17:50+00:00,https://x.com/authlete_jp/status/1859088739454382222,authlete_jp,"「デジタルアイデンティティウォレット」
 株式会社電通総研 オープンイノベーションラボ #Web3 プログラマ 比嘉康雄氏
 Authlete 3.0を活用した EUDI Wallet/EUDI VerifierとmDLの実証実験についてお話いただきます。
@@ -1086,7 +1183,7 @@ https://t.co/l9cHG66JgA
 
 Read More here: https://t.co/qk6toDSyQE",https://link.medium.com/tz0ZHqlyCOb,,,,,,,,,,Twitter Web App,,,,,
 2024-11-18 09:07:49+00:00,https://x.com/CrustNetwork/status/1858436940455879151,CrustNetwork,"🚀 @GoPlausible combines the power of @CrustNetwork  to deliver permanent, decentralized storage! 💾🔒
-With Crust’s double-pinning and GoPlausible’s seamless IPFS integration, your data stays secure, resilient, and always accessible—no matter what! https://t.co/ODEnWgGFRG",,,,,,https://pbs.twimg.com/media/Gcp-K3rbUAAaFOa.jpg,,,,,Twitter Web App,https://t.co/k5EBZMcf15,https://t.co/XI1rGG0BzM,,,
+With Crust’s double-pinning and GoPlausible’s seamless IPFS integration, your data stays secure, resilient, and always accessible—no matter what! https://t.co/ODEnWgGFRG",,,,,,https://pbs.twimg.com/media/Gcp-K3rbUAAaFOa.jpg,,,,,Twitter Web App,https://t.co/k5EBZMcf15,,,,
 2024-11-18 07:19:44+00:00,https://x.com/ayanworkstech/status/1858409741686587656,ayanworkstech,"As an 'Institute of National Importance', it plays a key role in advancing the Indian pharmaceutical industry &amp; nurturing future industry leaders. As part of this MOU, we have provided digital #verifiablecredentials through EduCreds to postgraduates during their 15th Convocation.",,,,,,,,,,,Twitter Web App,,,,,
 2024-11-18 04:17:09+00:00,https://x.com/kbaiiitmk/status/1858363792658243679,kbaiiitmk,"Join us for an exclusive session on Digital Identity &amp; Verifiable Credentials by @dannywong1190 , Enterprise Architect &amp; Head of Global Blockchain at @Allianz, SE. 
 #blockchain #digitalidentity #verifiablecredentials #kba #kbaiiitmk #keralablockchainacademy https://t.co/p5E6ekTKuJ",,,,,,https://pbs.twimg.com/media/Gco78dgWkAAF1jI.jpg,,,,,Twitter Web App,,,,,
@@ -1149,30 +1246,16 @@ https://t.co/e0sTA1iJCL",https://indicio.tech/introducing-indicio-proven-digital
 2024-11-12 07:43:10+00:00,https://x.com/e_lockr/status/1856241312191930420,e_lockr,"Building Trust with Verifiable Education Credentials
 eLockr’s Verifiable Credentials provide instant, tamper-proof, consent-based verification, making candidate qualification checks faster and more secure. Read more: https://t.co/a7xkb07Qm3
 #Hiring #VerifiableCredentials https://t.co/SCmqZBg2XX",https://elockr.io/blogs/why-verifiable-education-credentials-matter/,,,,,https://pbs.twimg.com/media/GcKwr11bkAAjOzg.jpg,,,,,Twitter Web App,,,,,
-2024-11-11 15:48:11+00:00,https://x.com/Big_joe0533/status/1856000981751800081,Big_joe0533,"4/Revendications vérifiables
-NeoID permet aux utilisateurs de créer des identifiants et revendications authentifiés, donnant accès sans exposer de données sensibles, pour voter ou accéder à des fonctionnalités exclusives. #VerifiableCredentials",,,,,,,,,,,Twitter for Android,,,,,
-2024-11-08 16:50:07+00:00,https://x.com/Surya021292/status/1854929403966636121,Surya021292,"I'd like to share my Creds to you through https://t.co/KQihqQr8Ud, a private and secure way of sharing social reputation credentials. Check them out here: https://t.co/jYDpdzIF30 #Creds #SocialReputation #MyInterchainReputation #VerifiableCredentials",http://Creds.xyz,https://profile.creds.xyz/share/rii-tzls-qlf,,,,,,,,,Twitter Web App,,,,,
-2024-11-07 22:35:15+00:00,https://x.com/Big_joe0533/status/1854653870292533610,Big_joe0533,"4/Verifiable Claims
-NeoID allows users to create decentralized identifiers and verifiable claims. These claims serve as authenticated credentials that grant access, all without sharing sensitive data. Whether voting or accessing exclusive features.
-#VerifiableCredentials",,,,,,,,,,,Twitter for Android,,,,,
-2024-11-06 10:34:00+00:00,https://x.com/authlete/status/1854109976782090306,authlete,"We're proud to announce the launch of #Authlete 3.0!
-The #OAuth/#OpenID Connect solution supports OpenID for Verifiable Credential Issuance (#OID4VCI), enabling you to quickly issue #VerifiableCredentials.
-Learn more and sign up for a free trial!👇
-https://t.co/Govjdg18GS
-#OIDC",https://www.authlete.com/news/20241106_authlete3/,,,,,,,,,,Twitter Web App,,,,,
-2024-11-06 04:57:25+00:00,https://x.com/e_lockr/status/1854025270426247354,e_lockr,"Access, share, and control your verifiable credentials anywhere with eLockr—privacy and convenience in one place!
+2024-11-28 19:35:34+00:00,https://x.com/lucchase/status/1862218797056192923,lucchase,"@BGatesIsaPyscho He really seems to have a habit of trusting incorrect information from biased sources.
+Really ought to be more skeptical and not so in love with his pet obsolete ID cards project. 
+Make sure it preserves #SelfSovereignIdentity and isn't a #HoneyPot of personal data.",,,,,,,,,,,Twitter for Android,,,,,
+2024-11-28 03:25:00+00:00,https://x.com/1KosmosBlockID/status/1861974547118821791,1KosmosBlockID,"Gain valuable insights on informed consent with practical guidance from 1Kosmos CTO, Rohan Pinto: https://t.co/icFv33yWRx
 
-#VerifiableCredentials #DigitalVerification #PrivacyControl #eLockr #SecureAccess https://t.co/aBm7Br8dYZ",,,,,,https://pbs.twimg.com/media/GbrQDj0bEAACxc4.jpg,,,,,Twitter Web App,,,,,
-2024-11-06 03:30:00+00:00,https://x.com/Accredify_io/status/1854003273336013252,Accredify_io,"Honoured to have our CTO, Derrick Lee, share his journey at the SCS-IMDA Mentorship Programme for students pursuing tech careers! Proud to support the next gen of tech leaders!
+#DataPrivacy #InformedConsent #SelfSovereignIdentity #Privacy #DataProtection",https://www.informationweek.com/data-management/practical-advice-for-fixing-informed-consent,,,,,,,,,,Sprout Social,,,,,
+2024-11-26 03:25:00+00:00,https://x.com/1KosmosBlockID/status/1861249771723215110,1KosmosBlockID,"Gain valuable insights on informed consent with practical guidance from 1Kosmos CTO, Rohan Pinto: https://t.co/icFv33yWRx
 
-#digitaltrust #verifiablecredentials #mentorship https://t.co/2Po3Y1AeGG",,,,,,https://pbs.twimg.com/media/GbnEj4sbsAAH53K.jpg,https://pbs.twimg.com/media/GbnEj4taEAAF3Ii.jpg,https://pbs.twimg.com/media/GbnEj4rbQAAJzjF.jpg,,,Twitter Web App,,,,,
-2024-11-05 16:28:46+00:00,https://x.com/IndicioID/status/1853836866153533785,IndicioID,"Today, Indicio announces the launch of its groundbreaking solution to the risks and challenges of #biometric authentication. Bring Your Own Biometrics using #VerifiableCredentials (BYOB-VC)
-
-https://t.co/dBR4yaN8KL",https://indicio.tech/biometrics-and-verifiable-credential-pioneer-indicio-launches-bring-your-own-biometrics-verifiable-credential-solution-to-solve-biometric-fraud/,,,,,,,,,,Twitter Web App,,,,,
-2024-11-05 09:33:05+00:00,https://x.com/TAFKASonOfAGun/status/1853732256667373921,TAFKASonOfAGun,"Plus #verifiableCredentials for #AI will be important from #NVidia until $TAO, Facebook to Reddit. @cheqd_io",,,,,,,,,,,Twitter Web App,,,,,
-2024-11-05 06:24:00+00:00,https://x.com/oClockyy/status/1853684674633032169,oClockyy,"Content Credentials will be the next big thing - and I’m not even kidding.
-
-$CHEQ - Decentralized Infrastructure",,,,,,,,,,,Twitter for iPhone,,,,,
+#DataPrivacy #InformedConsent #SelfSovereignIdentity #Privacy #DataProtection",https://www.informationweek.com/data-management/practical-advice-for-fixing-informed-consent,,,,,,,,,,Sprout Social,,,,,
+2024-11-25 17:55:05+00:00,https://x.com/GravidCommunity/status/1861106346260566084,GravidCommunity,"Empower your digital identity! Explore self-sovereign systems for smart data control and non-custodial storage. Your data, your rules! 🔐✨ Share your thoughts! #SelfSovereignIdentity #DataPrivacy @searchwithez Details in link.",,,,,,,,,,,Quuu,https://t.co/VA0m8h91XZ,,,,
 2024-11-24 03:25:00+00:00,https://x.com/1KosmosBlockID/status/1860524995652321451,1KosmosBlockID,"Gain valuable insights on informed consent with practical guidance from 1Kosmos CTO, Rohan Pinto: https://t.co/icFv33yWRx
 
 #DataPrivacy #InformedConsent #SelfSovereignIdentity #Privacy #DataProtection",https://www.informationweek.com/data-management/practical-advice-for-fixing-informed-consent,,,,,,,,,,Sprout Social,,,,,
@@ -1281,9 +1364,6 @@ $GNET https://t.co/T5fc8IElBm",,,,,,https://pbs.twimg.com/media/GafuhJrXwAAurcI.
 2024-10-18 14:26:34+00:00,https://x.com/bhushan_vikram/status/1847283135060333022,bhushan_vikram,"Thank you @arulPrak_ and Buk team for trusting on us this is just the beginning.
 
 Incoming 100k DIDs on HypersignID",,,,,,,,,,,Twitter for iPhone,,,,,
-2024-10-13 07:24:44+00:00,https://x.com/SonOfGrace65/status/1845365036790796344,SonOfGrace65,"8/ Final Thoughts
-NeoID dey create a future where you fit own your identity without fear say anybody go misuse your data. E dey secure, private, and perfect for the digital world wey we dey head to. 🌍🔐
-#NeoID #BlockchainIdentity #SelfSovereignIdentity #NeoBlockchain",,,,,,,,,,,Twitter for iPhone,https://t.co/0LrMVEFSqC).,,,,
 2024-10-29 02:23:02+00:00,https://x.com/idworkshop/status/1851087314816287021,idworkshop,"We are all ready to begin IIWXXXIX and look forward to welcoming the largest number of participants to the circle ever!  
 
 See you tomorrow Morning at 8 for check in, coffee, donuts, bagels &amp; more ... Opening Circle at 9 sharp!  #IIW #InternetIdentityWorkshop #openspacetech https://t.co/GJN2bWbo9t",,,,,,https://pbs.twimg.com/media/GbBhM10aYAADj3A.jpg,https://pbs.twimg.com/media/GbBhM14bEAAdHGj.jpg,,,,Twitter Web App,,,,,
@@ -1378,6 +1458,18 @@ https://t.co/J5DcBQpCnl",https://internetidentityworkshop.com,,,,,,,,,,Twitter f
 2019-04-29 01:03:31+00:00,https://x.com/nobantu/status/1122667696464596992,nobantu,"Getting set-up for #IIW 28 ~ if you've come to IIW before, can you tell what's different? 
 
 @idworkshop #internetidentityworkshop @ComputerHistory https://t.co/giiwqXpKHS",,,,,,https://pbs.twimg.com/media/D5SET8PUUAAAtfz.jpg,,,,,Twitter for Android,,,,,
+2024-11-27 12:15:46+00:00,https://x.com/bigbagz30k/status/1861745731813462425,bigbagz30k,"@cheqd_io follows the #EBSI trust chaining models via its (future) W3C spec #DLR DID Linked Resources module.
+
+While EBSI is focused on High Level authority VCs.
+
+Cheqd focuses on the substantial/low level Verifiable Credentials.
+
+$cheq https://t.co/TiTh5dNiX6",,,,,,https://pbs.twimg.com/media/GdY_4DIaYAA87xn.jpg,,,,,Twitter for Android,https://t.co/mgGE7I0wVL,https://pbs.twimg.com/media/GdY_4yiasAAKkfp.jpg,https://pbs.twimg.com/media/GdY_4-iaoAAjkwa.jpg,,
+2024-11-27 09:20:44+00:00,https://x.com/bigbagz30k/status/1861701683174400180,bigbagz30k,"Something to make your lips sweat. $cheq 
+
+@cheqd_io network is positioning as an #EU Trusted Service Provider, a.k.a Critical National Infrastructure.
+
+Based off of, and parallel to #EBSI. https://t.co/jgTZSl87wf",,,,,,https://pbs.twimg.com/media/GdYXnfpa4AAuMHg.png,https://pbs.twimg.com/media/GdYXsh7aUAA9_L-.png,,,,Twitter Web App,https://t.co/Bs71xFKO6m,,,,
 2024-11-24 13:18:09+00:00,https://x.com/archimate/status/1860674265982419131,archimate,"@GeckoFlyingHigh @Jetpack40 #3 #Europeum #EDI still organizing itself. Didn't yet change too much (if anything)
 #4 #IOTA has been selected for that (as 19 others) but this is unrelated to #EBSI.
 
@@ -1480,12 +1572,12 @@ https://t.co/nkeInyHqGr",https://x.com/odd_kesson/status/1847016911013662912?s=4
 2024-10-18 13:30:35+00:00,https://x.com/EngelTeufel4/status/1847269046464442474,EngelTeufel4,"Lesen Sie, wie #IOTA mit neuen Partnerschaften und Beschleunigungsprojekten wichtige Fortschritte bei der Einführung von Technologien gemacht hat, #EBSI PCP abgeschlossen und erweitert hat @TLIP_io
 Integrationen, gestartet @iotalabs_ und mehr! 
 https://t.co/qeX1gBvk5a",https://blog.iota.org/q3-2024-progress-report/,,,,,,,,,,Twitter Web App,,,,,
-2024-10-18 13:05:08+00:00,https://x.com/iotanews/status/1847262641128927444,iotanews,"iotatokennews: [Q3 Progress Report] Read how #IOTA made key strides in tech adoption with new partnerships &amp; accelerator projects, completed #EBSI PCP, expanded @TLIP_io integrations, launched @iotalabs_ and more!🌍🧵⤵️ https://t.co/yIRBrVOBHS https://t.co/MoMIoeE1V1",https://blog.iota.org/q3-2024-progress-report/,,,,,https://pbs.twimg.com/media/GaLKaZdXQAAbGW2.jpg,,,,,IFTTT,,,,,
-2024-10-18 13:04:41+00:00,https://x.com/iotatokennews/status/1847262525672268226,iotatokennews,"[Q3 Progress Report] Read how #IOTA made key strides in tech adoption with new partnerships &amp; accelerator projects, completed #EBSI PCP, expanded @TLIP_io integrations, launched @iotalabs_ and more!🌍🧵⤵️ https://t.co/9ztwKHDZTX https://t.co/Kc4dVlBImS",https://blog.iota.org/q3-2024-progress-report/,,,,,https://pbs.twimg.com/media/GaLKaZdXQAAbGW2.jpg,,,,,IFTTT,,,,,
 2024-10-18 14:41:16+00:00,https://x.com/sap_trainer/status/1847286831101972728,sap_trainer,"#IOTA Q3 2024 Progress Report
 #Partnerships, #Tech Updates, #EBSI, Governance, #Trade Supply Chains 
 #UK #Kenya #UAE #EU #Asia 
 https://t.co/puD83Kqt9S",https://blog.iota.org/q3-2024-progress-report/,,,,,,,,,,Twitter Web App,,,,,
+2024-10-18 13:05:08+00:00,https://x.com/iotanews/status/1847262641128927444,iotanews,"iotatokennews: [Q3 Progress Report] Read how #IOTA made key strides in tech adoption with new partnerships &amp; accelerator projects, completed #EBSI PCP, expanded @TLIP_io integrations, launched @iotalabs_ and more!🌍🧵⤵️ https://t.co/yIRBrVOBHS https://t.co/MoMIoeE1V1",https://blog.iota.org/q3-2024-progress-report/,,,,,https://pbs.twimg.com/media/GaLKaZdXQAAbGW2.jpg,,,,,IFTTT,,,,,
+2024-10-18 13:04:41+00:00,https://x.com/iotatokennews/status/1847262525672268226,iotatokennews,"[Q3 Progress Report] Read how #IOTA made key strides in tech adoption with new partnerships &amp; accelerator projects, completed #EBSI PCP, expanded @TLIP_io integrations, launched @iotalabs_ and more!🌍🧵⤵️ https://t.co/9ztwKHDZTX https://t.co/Kc4dVlBImS",https://blog.iota.org/q3-2024-progress-report/,,,,,https://pbs.twimg.com/media/GaLKaZdXQAAbGW2.jpg,,,,,IFTTT,,,,,
 2024-10-18 13:00:02+00:00,https://x.com/iota/status/1847261355750908329,iota,"[Q3 Progress Report] Read how #IOTA made key strides in tech adoption with new partnerships &amp; accelerator projects, completed #EBSI PCP, expanded @TLIP_io integrations, launched @iotalabs_ and more!🌍🧵⤵️ https://t.co/Ni501Sczzu https://t.co/Tn8GkWaWvS",https://blog.iota.org/q3-2024-progress-report/,,,,,https://pbs.twimg.com/media/GaLKaZdXQAAbGW2.jpg,,,,,Sprinklr Publishing,,,,,
 2024-10-17 18:19:21+00:00,https://x.com/MusicLoverIndie/status/1846979327776510295,MusicLoverIndie,"@servrox @Aptos @SuiNetwork About all 6 months we get announcements with great sounding developments or investors or other features, but nothing will be delivered finally. Where is #IOTA 2.0 on Shimmer? Where is 100m #RWA onchain? Where is #EBSI? Where is #IoT? Where are all these deliveries? Only hot air!",,,,,,,,,,,Twitter for Android,,,,,
 2024-10-16 19:22:32+00:00,https://x.com/SimpleIdServer1/status/1846632841129742626,SimpleIdServer1,"The cross-platform SimpleIdServer mobile application, developed with MAUI, is now available on both Google Play and the App Store!
@@ -1530,11 +1622,13 @@ https://t.co/8oFBBOwPJM",https://www.crypto-news-flash.com/de/iota-nimmt-an-der-
 
 #BSV #Blockchain #EBSI @EU_EBSI",https://hubs.la/Q02RbVJT0,,,,,,,,,,HubSpot,,,,,
 2024-09-18 16:08:08+00:00,https://x.com/balyeli_fatih/status/1836437057130103233,balyeli_fatih,"🚀 #Exaion joins @EU_Commission's #EBSI with a validator #node, boosting #EU #digital #infrastructure 🔗 @EU_EBSI uses #blockchain for secure cross-border services 🌟 We ensure #security, #traceability, and support key services 📩 Contact us 👉 contact@exaion.com @EDF_Innovation https://t.co/vPrRYJt5s3",,,,,,https://pbs.twimg.com/media/GXxVuuDWUAANR7A.jpg,,,,,Twitter Web App,,,,,
-2024-09-18 15:15:33+00:00,https://x.com/i_patricius/status/1836423826063687990,i_patricius,Malým a středním podnikům pomůže s financováním nová digitální platforma. https://t.co/TsPPT3lNEh #blockchain #EBSI #DLT,https://zpravy.kurzy.cz/783963-malym-a-strednim-podnikum-pomuze-s-financovanim-nova-digitalni-platforma/,,,,,,,,,,Twitter Web App,,,,,
-2024-09-06 05:00:00+00:00,https://x.com/IpTopics/status/1831920261240647789,IpTopics,"🔗 EBSI’s Blockchain is powering the EUIPO’s groundbreaking anti-counterfeiting initiative, revolutionizing IP protection in Europe. #EBSI #Blockchain #EUIPO #AntiCounterfeiting #EuropeanCommission
-https://t.co/vLhX90cObV",https://buff.ly/47ejpV0,,,,,,,,,,Buffer,,,,,
 2024-10-04 22:49:58+00:00,https://x.com/sap_trainer/status/1842336387493679267,sap_trainer,"European #blockchain sandbox onboards 41 regulators in second cohort #EBSI #IOTA
 https://t.co/TriOb6xexn via @cointelegraph",https://cointelegraph.com/news/european-commission-blockchain-sandbox-second-cohort,,,,,,,,,,Twitter Web App,,,,,
+2024-11-25 11:32:07+00:00,https://x.com/Keyfactor/status/1861009972131144006,Keyfactor,"Our Keyfactor Connect event series continues with a kick-off in London! 
+
+Customers gathered for a day of valuable discussions on PKI strategies, decentralized tools, signing solutions, next-gen hardware appliances, and much more. 
+ 
+#KeyfactorConnect #CustomersAreCore https://t.co/8aMsLxhygM",,,,,,https://pbs.twimg.com/media/GdOiscXXYAAsa26.jpg,https://pbs.twimg.com/media/GdOiszMXwAADeoL.jpg,https://pbs.twimg.com/media/GdOitCqWAAAu_wN.jpg,https://pbs.twimg.com/media/GdOitMuXcAAUizx.jpg,,Oktopost,,,,,
 2024-10-29 17:36:45+00:00,https://x.com/sarlev_/status/1851317259819761971,sarlev_,"curious to check out my piece on the azimuth pki and decentralized identity systems? 
 
 grab a copy of issue#2 of the urbit systems technical journal and add it to your collection 👇🏻",,,,,,,,,,,Twitter Web App,,,,,
