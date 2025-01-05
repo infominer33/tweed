@@ -13,7 +13,7 @@ The liquid is actually a kind of special oil that feels like a baby oil.",,,,,,h
 https://t.co/NpCQjkJYU7",https://www.cloudhire.ai/data-accuracy-in-the-age-of-ai-insights-from-spokeos-journey/,,,,,,,,,,Twitter Web App,,,,,
 2024-11-13 23:00:01+00:00,https://x.com/tang_talks/status/1856834433002983902,tang_talks,Proud to sponsor the Internet Identity Workshop #IIW 39 - my favorite conference 😍 https://t.co/oA9KF7IkDE,,,,,,https://pbs.twimg.com/media/GcN8Z04asAARaJm.jpg,https://pbs.twimg.com/media/GcN8Z1ZasAE4DsL.jpg,,,,Twitter Web App,,,,,
 2024-11-12 22:21:47+00:00,https://x.com/tang_talks/status/1856462423815024918,tang_talks,RT @elonmusk: Must be a coincidence 🙄 https://t.co/npsMqqatx0,,,,,,https://pbs.twimg.com/media/GcCYEOobwAAX0RQ.jpg,,,,,Twitter Web App,,,,,
-2024-11-10 16:34:30+00:00,https://x.com/elonmusk/status/1855650251077722130,elonmusk,Must be a coincidence 🙄 https://t.co/npsMqqatx0,,,,,,https://pbs.twimg.com/media/GcCYEOobwAAX0RQ.jpg,,,,,Twitter for iPhone,https://t.co/QX9iQgQWCH,https://pbs.twimg.com/media/GcCZEUaa4AARlCf.jpg,https://t.co/5rp5Ybv0R3,https://pbs.twimg.com/media/GcDNiuJXoAAWEP3.jpg,https://t.co/rsPoOpBSUV
+2024-11-10 16:34:30+00:00,https://x.com/elonmusk/status/1855650251077722130,elonmusk,Must be a coincidence 🙄 https://t.co/npsMqqatx0,,,,,,https://pbs.twimg.com/media/GcCYEOobwAAX0RQ.jpg,,,,,Twitter for iPhone,https://t.co/rsPoOpBSUV,https://pbs.twimg.com/media/GcCYmHpXoAAB3i_.jpg,https://t.co/vixXq1Zh19,https://pbs.twimg.com/media/GcCYnPzaQAAk5iH.jpg,https://t.co/Xi5feOHRLF
 2024-11-08 20:32:54+00:00,https://x.com/tang_talks/status/1854985470624801059,tang_talks,"Wolf McNally and Christopher Allen from Blockchain Commons presented on ""Gordian Envelope, Elision, and Controller Documents"" at W3C CCG.  Gordian envelope is a smart document system built on deterministic CBOR, and it consists of triples of subject, predicate, and object.  It supports elision or hiding of data while preserving verifiability.  Wolf and Christopher also introduced their latest Gordian Sealed Transaction Protocol that leverages the Gordian envelope for use cases like key agreement, data exchange, confidential backups, and multi-signature coordination.  You can watch the recording of the presentation and discussion here: https://t.co/5itnsJwst3  You can also view the transcription of the discussion here:  https://t.co/7uEas3hDjw",https://www.youtube.com/watch?v=k1iIO-bfVhM,https://w3c-ccg.github.io/meetings/2024-10-22/,,,,,,,,,Twitter Web App,,,,,
 2024-10-29 22:14:24+00:00,https://x.com/tang_talks/status/1851387134953095216,tang_talks,We need more monetization discussions at #IIW and in #SSI 😀.  Monetization is critical to driving market adoption.,,,,,,,,,,,Twitter for iPhone,https://t.co/YIGxqis1KR,https://t.co/8yIVqTKMrp,,,
 2024-10-29 20:03:41+00:00,https://x.com/ankurb/status/1851354236308590928,ankurb,"@ACLU “How to make money 🤑 from SSI”, a session convened by @tang_talks. A lot of talk about how regulation is opening up the industry, and locking up credentials doesn’t work…but monetising other aspects around credential exchange does. https://t.co/Oer4agyZwW",,,,,,https://pbs.twimg.com/media/GbFU3N-aIAA4MM4.jpg,,,,,Twitter for iPhone,https://t.co/fVdVqOesEW,https://pbs.twimg.com/media/GbFtbVXbQAQzpok.jpg,,,
@@ -143,3 +143,153 @@ Here are my notes: https://t.co/BvyLjuYH3f",https://til.simonwillison.net/pypi/p
 2023-11-28 23:07:12+00:00,https://x.com/james_monaghan/status/1729638099502645486,james_monaghan,"I am often asked whether SSI, verifiable credentials or identity wallets are a good fit for a particular use case, and my answer is usually ""it depends on which benefits of this technology are relevant in this situation"". Here's a handy cheat sheet 🧵. https://t.co/BXcLWV8Z2l",,,,,,https://pbs.twimg.com/media/GADm6a_WMAAV8Ze.jpg,,,,,Twitter Web App,https://t.co/aISqJupX1z,https://pbs.twimg.com/media/GADm-8aWIAASnpR.jpg,https://pbs.twimg.com/media/GADnAHLX0AAGch4.jpg,https://pbs.twimg.com/media/GADnBWPXoAApm_b.jpg,https://pbs.twimg.com/media/GADnDzsWgAADLt6.jpg
 2023-12-01 03:58:56+00:00,https://x.com/DecentralizeID/status/1730436293044084752,DecentralizeID,RT @DickHardt: Should I apply? 🤣 -&gt; OpenAI hiring a Senior Software Engineer- Identity Platform - $200 - $370K https://t.co/FDstIDox9B,https://boards.greenhouse.io/openai/jobs/4887871004#app,,,,,,,,,,Twitter Web App,,,,,
 2023-11-30 22:22:12+00:00,https://x.com/DickHardt/status/1730351551074488465,DickHardt,Should I apply? 🤣 -&gt; OpenAI hiring a Senior Software Engineer- Identity Platform - $200 - $370K https://t.co/FDstIDox9B,https://boards.greenhouse.io/openai/jobs/4887871004#app,,,,,,,,,,Twitter for iPhone,https://t.co/2OS3mgTPex,,,,
+2023-11-06 04:58:53+00:00,https://x.com/DecentralizeID/status/1721391681214271677,DecentralizeID,"RT @james_monaghan: I agree with @GSMA that a verified mobile number credential would be valuable in an EU digital identity wallet, but mobile operators tend to focus on monetising data attributes rather than the subscriber benefit, so I can't see this becoming universal... https://t.co/Q33hLAFnKW",,,,,,,,,,,Twitter Web App,,,,,
+2023-11-05 10:26:24+00:00,https://x.com/james_monaghan/status/1721111715096453348,james_monaghan,"I agree with @GSMA that a verified mobile number credential would be valuable in an EU digital identity wallet, but mobile operators tend to focus on monetising data attributes rather than the subscriber benefit, so I can't see this becoming universal... https://t.co/Q33hLAFnKW",https://www.gsma.com/gsmaeurope/resources/mobile-number-as-a-verifiable-credential-in-eidas-2-0-wallets/,,,,,,,,,,Twitter Web App,,,,,
+2023-10-15 20:19:46+00:00,https://x.com/DecentralizeID/status/1713650895643119703,DecentralizeID,"RT @mfosterio: @robin_linus It would be interesting to apply the W3C Verifiable Credentials Data Model to the claims and proofs
+
+https://t.co/oKNheeeRwv",,,,,,,,,,,Twitter Web App,,,,,
+2023-10-10 11:56:43+00:00,https://x.com/mfosterio/status/1711712361147428896,mfosterio,"@robin_linus It would be interesting to apply the W3C Verifiable Credentials Data Model to the claims and proofs
+
+https://t.co/oKNheeeRwv",https://www.w3.org/TR/vc-data-model-2.0/,,,,,,,,,,Twitter for iPhone,,,,,
+2023-10-08 03:30:01+00:00,https://x.com/DecentralizeID/status/1710860068999032930,DecentralizeID,RT @Sarah_Cecc: 🫂🫂🫂🫂 https://t.co/Kw51vYVjsy,,,,,,https://pbs.twimg.com/media/F73QI98bgAAZ_KR.jpg,,,,,Twitter Web App,,,,,
+2023-10-07 20:21:44+00:00,https://x.com/Sarah_Cecc/status/1710752288573378995,Sarah_Cecc,🫂🫂🫂🫂 https://t.co/Kw51vYVjsy,,,,,,https://pbs.twimg.com/media/F73QI98bgAAZ_KR.jpg,,,,,Twitter for iPhone,https://t.co/x8EjKn9YKy,https://pbs.twimg.com/media/F7-Z5FaW8AAuaLY.jpg,,,
+2023-09-29 22:30:29+00:00,https://x.com/DecentralizeID/status/1707885588349587750,DecentralizeID,RT @idworkshop: We have stickers #iiw https://t.co/QN6sK18qmJ,,,,,,https://pbs.twimg.com/media/F7HVkAHaAAAJ8Ko.jpg,,,,,Twitter Web App,,,,,
+2023-09-28 13:03:39+00:00,https://x.com/idworkshop/status/1707380552175919140,idworkshop,We have stickers #iiw https://t.co/QN6sK18qmJ,,,,,,https://pbs.twimg.com/media/F7HVkAHaAAAJ8Ko.jpg,,,,,Twitter for iPhone,,,,,
+2023-09-24 02:52:49+00:00,https://x.com/DecentralizeID/status/1705777279496860093,DecentralizeID,RT @philarcher1: Hey! @GS1_US just released a load of open source code (under Apache 2.0) for verifying GS1 Verifiable Credentials (following relevant @w3c specs) Really happy to see this. We're already working on how we can develop and expand our use of VCs. https://t.co/ul4LPHkSJd,,,,,,,,,,,Twitter Web App,,,,,
+2023-08-31 15:55:14+00:00,https://x.com/philarcher1/status/1697276868792135944,philarcher1,Hey! @GS1_US just released a load of open source code (under Apache 2.0) for verifying GS1 Verifiable Credentials (following relevant @w3c specs) Really happy to see this. We're already working on how we can develop and expand our use of VCs. https://t.co/ul4LPHkSJd,https://github.com/gs1us-technology/vc-verifier-core,,,,,,,,,,Twitter Web App,,,,,
+2023-09-05 02:47:16+00:00,https://x.com/DecentralizeID/status/1698890513326235832,DecentralizeID,"RT @ubisecure: 📢 Guess who's back? 👀 @AnnCavoukian &amp; @katrynadow are featured on this storytelling episode of #LTADI - all about #PrivacyByDesign. 
+👉 Listen now: https://t.co/TkVxVhzp22
+#ISO31700",,,,,,,,,,,Twitter Web App,,,,,
+2023-09-04 15:20:00+00:00,https://x.com/ubisecure/status/1698717556574421177,ubisecure,"📢 Guess who's back? 👀 @AnnCavoukian &amp; @katrynadow are featured on this storytelling episode of #LTADI - all about #PrivacyByDesign. 
+👉 Listen now: https://t.co/TkVxVhzp22
+#ISO31700",https://bit.ly/3LdFk5F,,,,,,,,,,Sprout Social,,,,,
+2023-09-05 02:34:15+00:00,https://x.com/DecentralizeID/status/1698887233850286299,DecentralizeID,"RT @EFF: Under the Online Safety Bill, U.K. law enforcement could read the private chats and photos of web users around the world—without judicial oversight, and with few safeguards. https://t.co/r0ouV8ZF6F",,,,,,,,,,,Twitter Web App,,,,,
+2023-09-03 09:27:00+00:00,https://x.com/EFF/status/1698266330947101022,EFF,"Under the Online Safety Bill, U.K. law enforcement could read the private chats and photos of web users around the world—without judicial oversight, and with few safeguards. https://t.co/r0ouV8ZF6F",https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide,,,,,,,,,,Twitter Web App,,,,,
+2023-08-19 07:49:05+00:00,https://x.com/DecentralizeID/status/1692805871468957702,DecentralizeID,"RT @kristinayasuda: We have a new ""Digital Credentials Protocols WG"" in OpenID Foundation to do the work on OpenID for Verifiable Credentials related protocols! super excited to finally graduate from SIOP special topic calls under Connect WG and have our own ""home"" 🥰
+
+https://t.co/Z3L7MftSDE",,,,,,,,,,,Twitter Web App,,,,,
+2023-08-18 20:35:02+00:00,https://x.com/kristinayasuda/status/1692636243912442224,kristinayasuda,"We have a new ""Digital Credentials Protocols WG"" in OpenID Foundation to do the work on OpenID for Verifiable Credentials related protocols! super excited to finally graduate from SIOP special topic calls under Connect WG and have our own ""home"" 🥰
+
+https://t.co/Z3L7MftSDE",https://openid.net/announcing-the-digital-credentials-protocols-working-group/,,,,,,,,,,Twitter Web App,,,,,
+2023-08-19 07:47:36+00:00,https://x.com/DecentralizeID/status/1692805497760661660,DecentralizeID,"RT @OR13b: Have you heard of WHODIS?
+
+I think IETF can do some awesome work on identity, with lessons learned from OAuth, Key Transparency, Remote Attestation, and COSE.
+
+Maybe DIDs 2.0... maybe something better.
+
+https://t.co/sIWe1nzeRC",,,,,,,,,,,Twitter Web App,,,,,
+2023-08-17 23:41:46+00:00,https://x.com/OR13b/status/1692320846226817358,OR13b,"Have you heard of WHODIS?
+
+I think IETF can do some awesome work on identity, with lessons learned from OAuth, Key Transparency, Remote Attestation, and COSE.
+
+Maybe DIDs 2.0... maybe something better.
+
+https://t.co/sIWe1nzeRC",https://mailarchive.ietf.org/arch/msg/identity-discuss/-M-p4JwdP76gTbhvVf68QmHC2dg/,,,,,,,,,,Twitter for Android,,,,,
+2023-08-17 07:55:31+00:00,https://x.com/DecentralizeID/status/1692082716030984649,DecentralizeID,"RT @justin__richer: HTTP Message Signatures has been approved by the IESG, one step closer to a final RFC!
+
+https://t.co/wzK1e370or",https://datatracker.ietf.org/doc/draft-ietf-httpbis-message-signatures/,,,,,,,,,,Twitter Web App,,,,,
+2023-08-16 14:20:57+00:00,https://x.com/justin__richer/status/1691817326033702993,justin__richer,"HTTP Message Signatures has been approved by the IESG, one step closer to a final RFC!
+
+https://t.co/wzK1e370or",https://datatracker.ietf.org/doc/draft-ietf-httpbis-message-signatures/,,,,,,,,,,Twitter Web App,,,,,
+2023-08-13 08:26:13+00:00,https://x.com/DecentralizeID/status/1690640888530378752,DecentralizeID,"RT @IdentityWoman: @sandroherbig @tfh_technology @worldcoin Yeah.
+Some of us have been working on getting digital identity right for humans. 
+It is also hard. 
+Some of us have been working on it for 20+ years. 
+Hopefully you will come and join us at @idworkshop :) 
+Number 37 is coming up on October.",,,,,,,,,,,Twitter Web App,,,,,
+2023-08-13 00:35:23+00:00,https://x.com/IdentityWoman/status/1690522401136873472,IdentityWoman,"@sandroherbig @tfh_technology @worldcoin Yeah.
+Some of us have been working on getting digital identity right for humans. 
+It is also hard. 
+Some of us have been working on it for 20+ years. 
+Hopefully you will come and join us at @idworkshop :) 
+Number 37 is coming up on October.",,,,,,,,,,,Twitter Web App,,,,,
+2023-07-20 11:07:43+00:00,https://x.com/DecentralizeID/status/1681984225732595712,DecentralizeID,RT @neharungta: Check out the JSON External Syntax Tree representation of Cedar policies which enables users to programmatically parse and build policies. https://t.co/kVa1etfSpP,,,,,,,,,,,Twitter Web App,,,,,
+2023-07-20 01:20:20+00:00,https://x.com/neharungta/status/1681836402449993728,neharungta,Check out the JSON External Syntax Tree representation of Cedar policies which enables users to programmatically parse and build policies. https://t.co/kVa1etfSpP,https://docs.cedarpolicy.com/json-format.html,,,,,,,,,,Twitter for iPhone,,,,,
+2023-07-02 05:17:56+00:00,https://x.com/DecentralizeID/status/1675373215324196865,DecentralizeID,"RT @RuffTimo: I just published ""The Dawn of Decentralized Organizational Identity, Part 2: Organizational Credentials""
+
+Co-authored by Stephan Wolf, CEO of @GLEIF.
+
+Thanks to the many smart people who contributed their time and insights.
+
+https://t.co/1Wr3l6QlmB",,,,,,,,,,,Twitter Web App,,,,,
+2023-06-29 06:20:36+00:00,https://x.com/RuffTimo/status/1674301824424370176,RuffTimo,"I just published ""The Dawn of Decentralized Organizational Identity, Part 2: Organizational Credentials""
+
+Co-authored by Stephan Wolf, CEO of @GLEIF.
+
+Thanks to the many smart people who contributed their time and insights.
+
+https://t.co/1Wr3l6QlmB",https://link.medium.com/rqV4ERrd1Ab,,,,,,,,,,Twitter Web App,,,,,
+2023-07-02 05:17:14+00:00,https://x.com/DecentralizeID/status/1675373041742921730,DecentralizeID,"RT @DomSchiener: The EDIC initiative is a great step forward. 
+
+Europe needs a secure, open infrastructure to spearhead the digital transformation of our economy and society.   
+
+We are proud to contribute to this vision and create value for Europe and the World #IOTA 
+
+https://t.co/0xx8cJecPL",,,,,,,,,,,Twitter Web App,,,,,
+2023-06-29 17:22:21+00:00,https://x.com/DomSchiener/status/1674468356785680385,DomSchiener,"The EDIC initiative is a great step forward. 
+
+Europe needs a secure, open infrastructure to spearhead the digital transformation of our economy and society.   
+
+We are proud to contribute to this vision and create value for Europe and the World #IOTA 
+
+https://t.co/0xx8cJecPL",https://dlnews.com/articles/regulation/european-union-scales-blockchain-infrastructure-in-big-push/,,,,,,,,,,Twitter Web App,https://t.co/H3ElNQvBAe,https://t.co/4HNTHXEZZy,https://pbs.twimg.com/media/Fz3Cuk3XsAItxr7.jpg,https://t.co/Ai48eJBlLG,
+2023-07-01 19:33:53+00:00,https://x.com/DecentralizeID/status/1675226234031321088,DecentralizeID,"RT @SSI_Ambassador: Discover the future of secure and seamless travel with digital identity models ✈️ 
+
+Check out this article on The European Sting to learn how innovative solutions can enhance traveler experiences and security! 🧳
+
+[https://t.co/nimoXuELBU]",,,,,,,,,,,Twitter Web App,,,,,
+2023-07-01 13:36:00+00:00,https://x.com/SSI_Ambassador/status/1675136170341154817,SSI_Ambassador,"Discover the future of secure and seamless travel with digital identity models ✈️ 
+
+Check out this article on The European Sting to learn how innovative solutions can enhance traveler experiences and security! 🧳
+
+[https://t.co/nimoXuELBU]",https://europeansting.com/2023/05/30/digital-identity-models-whats-next-for-secure-and-seamless-travel/,,,,,,,,,,Buffer,,,,,
+2023-05-10 01:32:24+00:00,https://x.com/DecentralizeID/status/1656109901285068801,DecentralizeID,"RT @InteroperableEU: EU-Commissioner @JHahnEU recently reminded us that the official #EU motto ""Unity in Diversity"" is exactly what #interoperability is all about.
+
+Let's lift it to the next level in the interest of us all.
+
+A happy #EuropeDay🇪🇺 from #Interoperable #Europe! 
+
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ https://t.co/WsxDp0rpma",,,,,,,,,,,Twitter Web App,,,,,
+2023-05-09 06:45:18+00:00,https://x.com/InteroperableEU/status/1655826257374748675,InteroperableEU,"EU-Commissioner @JHahnEU recently reminded us that the official #EU motto ""Unity in Diversity"" is exactly what #interoperability is all about.
+
+Let's lift it to the next level in the interest of us all.
+
+A happy #EuropeDay🇪🇺 from #Interoperable #Europe! 
+
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ https://t.co/WsxDp0rpma",,,,,,,,,,,Twitter Web App,,,,,
+2023-05-09 23:00:47+00:00,https://x.com/DecentralizeID/status/1656071745324089344,DecentralizeID,"RT @Blockworks_: Frontrun Web3 by mastering decentralized identity
+
+Learn:
+- Why identity is broken
+- The leading solutions and their limitations
+- How account abstraction changes the game
+- The risks of getting it wrong
+
+https://t.co/xuzJjezu6S",,,,,,,,,,,Twitter Web App,,,,,
+2023-03-14 15:44:44+00:00,https://x.com/Blockworks_/status/1635668290713288705,Blockworks_,"Frontrun Web3 by mastering decentralized identity
+
+Learn:
+- Why identity is broken
+- The leading solutions and their limitations
+- How account abstraction changes the game
+- The risks of getting it wrong
+
+https://t.co/xuzJjezu6S",https://blockworks.co/news/what-is-decentralized-identity,,,,,,,,,,Twitter Web App,,,,,
+2023-05-09 22:46:13+00:00,https://x.com/DecentralizeID/status/1656068082736173056,DecentralizeID,"RT @SSI_Ambassador: Blockworks' article discusses decentralized identity as a crucial pillar of Web3, emphasizing the importance of getting it right to ensure user privacy, security, and control in the new era of digital identity. 
+
+https://t.co/ory3qgSy0a",,,,,,,,,,,Twitter Web App,,,,,
+2023-05-09 07:07:00+00:00,https://x.com/SSI_Ambassador/status/1655831721307144192,SSI_Ambassador,"Blockworks' article discusses decentralized identity as a crucial pillar of Web3, emphasizing the importance of getting it right to ensure user privacy, security, and control in the new era of digital identity. 
+
+https://t.co/ory3qgSy0a",https://blockworks.co/news/what-is-decentralized-identity,,,,,,,,,,Buffer,,,,,
+2023-03-30 18:40:53+00:00,https://x.com/DecentralizeID/status/1641510825373634560,DecentralizeID,"RT @darrello: ""...and specific provisions in the Bill will ensure that te ao Māori approaches to identity are considered in trust framework governance and decision making.""
+
+nice to see
+
+https://t.co/0jtzgWufbE",,,,,,,,,,,Twitter Web App,,,,,
+2023-03-30 17:43:06+00:00,https://x.com/darrello/status/1641496285630046208,darrello,"""...and specific provisions in the Bill will ensure that te ao Māori approaches to identity are considered in trust framework governance and decision making.""
+
+nice to see
+
+https://t.co/0jtzgWufbE",https://www.beehive.govt.nz/release/govt-helps-protect-new-zealanders-digital-identities-0,,,,,,,,,,Twitter Web App,,,,,
+2023-03-30 18:40:45+00:00,https://x.com/DecentralizeID/status/1641510793417220097,DecentralizeID,RT @esatus_SOWL: #SOWL Wallet SKD is coming 🔜! It will facilitate your own #wallet development and support the #opensource community to provide a common standard for #SSI solutions without compromising security and quality. https://t.co/0LxixkOUr3,,,,,,,,,,,Twitter Web App,,,,,
+2023-03-30 09:19:26+00:00,https://x.com/esatus_SOWL/status/1641369534954127361,esatus_SOWL,#SOWL Wallet SKD is coming 🔜! It will facilitate your own #wallet development and support the #opensource community to provide a common standard for #SSI solutions without compromising security and quality. https://t.co/0LxixkOUr3,,,,,,https://pbs.twimg.com/media/FsdPKsvXoAAiLqo.jpg,,,,,Twitter Web App,,,,,
